@@ -1,0 +1,1 @@
+CREATE USER 'admin'@'%' IDENTIFIED BY 'mqt\*XGH1cwb0vxz9qv'; GRANT ALL PRIVILEGES ON \*.* TO 'root'@'%' WITH GRANT OPTION;

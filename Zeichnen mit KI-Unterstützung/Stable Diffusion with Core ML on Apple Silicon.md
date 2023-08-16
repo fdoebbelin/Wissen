@@ -1,0 +1,19 @@
+---
+source: https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon
+---
+
+Today, we are excited to release optimizations to Core ML for [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement) in macOS 13.1 and iOS 16.2, along with code to get started with deploying to Apple Silicon devices.
+
+[![Figure 1: Images generated with the prompts, 'a high quality photo of an astronaut riding a (horse/dragon) in space' using Stable Diffusion and Core ML + diffusers running on-device on Apple Silicon.'](https://mlr.cdn-apple.com/media/sd_fig1_9b8ff98240.jpg)](https://mlr.cdn-apple.com/media/sd_fig1_9b8ff98240.jpg)
+
+Figure 1: Images generated with the prompts, "a high quality photo of an astronaut riding a (horse/dragon) in space" using Stable Diffusion and Core ML + diffusers running on-device on Apple Silicon.
+
+Since its public debut in August 2022, Stable Diffusion has been adopted by a vibrant community of artists, developers and hobbyists alike, enabling the creation of unprecedented visual content with as little as a text prompt. In response, the community has built an expansive ecosystem of extensions and tools around this core technology in a matter of weeks. There are already methods that [personalize](https://huggingface.co/docs/diffusers/training/dreambooth) Stable Diffusion, extend it to [languages other than English](https://huggingface.co/rinna/japanese-stable-diffusion), and more, thanks to open-source projects like [Hugging Face diffusers](https://github.com/huggingface/diffusers).
+
+Beyond image generation from text prompts, developers are also discovering other creative uses for Stable Diffusion, such as image editing, in-painting, out-painting, super-resolution, style transfer and even color palette generation. With the growing number of applications of Stable Diffusion, ensuring that developers can leverage this technology effectively is important for creating apps that creatives everywhere will be able to use.
+
+One of the key questions for Stable Diffusion in any app is where the model is running. There are a number of reasons why on-device deployment of Stable Diffusion in an app is preferable to a server-based approach. First, the privacy of the end user is protected because any data the user provided as input to the model stays on the user's device. Second, after initial download, users don’t require an internet connection to use the model. Finally, locally deploying this model enables developers to reduce or eliminate their server-related costs.
+
+Getting to a compelling result with Stable Diffusion can require a lot of time and iteration, so a core challenge with on-device deployment of the model is making sure it can generate results fast enough on device. This requires executing a complex pipeline comprising 4 different neural networks totaling approximately 1.275 billion parameters. To learn more about how we optimized a model of this size and complexity to run on the Apple Neural Engine, you can check out our previous article on [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers). The optimization principles outlined in the article generalize to Stable Diffusion despite the fact that it is 19x larger than the model studied in the previous article. Optimizing Core ML for Stable Diffusion and simplifying model conversion makes it easier for developers to incorporate this technology in their apps in a privacy-preserving and economically feasible way, while getting the best performance on Apple Silicon.
+
+This release comprises a Python package for converting Stable Diffusion models from PyTorch to Core ML using diffusers and coremltools, as well as a Swift package to deploy the models. To get started, visit the [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion) code repository for detailed instructions on benchmarking and deployment.

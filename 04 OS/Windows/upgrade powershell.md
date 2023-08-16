@@ -1,0 +1,1 @@
+ `$ winget upgrade powershell`

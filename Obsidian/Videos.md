@@ -1,0 +1,5 @@
+Nicole van der Hoeven
+https://www.youtube.com/@nicolevdh
+
+My ethics statement: [https://nicolevanderhoeven.com/ethics/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmlaUTdsVjBITmJ6Ukl3cDViYWdQdGZ2R0tId3xBQ3Jtc0trS0dVREtBVm9wQkZPTmVOUEFmMkFpYnlPRFVRLUVncnQ1ZHNJNXhfNnE3RFFrdTkyX3ZYX1RFWUstMmF5MmRJUVRJN3ZzNGtvWlRrcV83YU9MR2FGemkwWjFfR1dKdno0QzctaDd0WnhSaG5iZ2VLNA&q=https%3A%2F%2Fnicolevanderhoeven.com%2Fethics%2F&v=FAy9ZWaHSIw) 
+My public Obsidian vault: [https://notes.nicolevanderhoeven.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBvU05MOEZoV3kyc0dHb3BzZURqUVF1aFVMQXxBQ3Jtc0trWkl0aUtWZ1dUWFdnaDJvS3NfUGRCY01feHozODNVam41RFY2V3AwWXRzSlJZR05sRmk4NFQ3RVlFUklVSmdCamVDcnBUd19zTkh6dU9QQkdvRjgteHcyUHVya0RZZjJaTndyYUxMMWlERzAxMmRuUQ&q=https%3A%2F%2Fnotes.nicolevanderhoeven.com%2F&v=FAy9ZWaHSIw) 

@@ -1,0 +1,34 @@
+-  Groß- und Kleinschreibung werden nicht unterschieden;
+-  die Kurzschrift gibt nicht alle einzelnen Zeichen der “Langschrift” wieder, z.B. nn = n, ieh = i, v = f
+-   die Wörter werden so geschrieben, wie sie **gesprochen** werden:  
+    `man sit den wolstand und fortschrit`
+-   Satzzeichen? Ich persönlich schreibe sie wie in der Langschrift.
+-   es gibt eine Grundlinie und darüber zwei “Stufen” ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/Linien.png "Grafik: drei Linien")
+-   ein Konsonant
+    -   wird von oben nach unten geschrieben,
+    -   beginnt am Wortanfang auf der zweiten oder ersten Stufe und endet auf der Grundlinie
+    -   ist entweder zwei ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/b.png "b") oder eine ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/t.png "t") “Stufe” hoch,
+    -   benötigt horizontal keine (“t”), eine (“r”) oder zwei (“j”) Breiten: ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/trj.png "trj")
+    -   wird gerade oder schräg nach rechts unten geschrieben
+    -   hat am Anfang und Ende des Striches jeweils eine bestimmte Form (rund, eckig, Schleife)
+    -   Doppelkonsonanten können durch einen darüber geschriebenen Strich wiedergegeben werden
+    -   “v”, “nt”, “nk” können jeweils von “f”, “nd”, “ng” durch einen darüber geschriebenen Strich unterschieden werden
+    -   einzelne Konsonanten können am Ende (Fuß) mit einer Schleife geschrieben werden (ch, h, m, s, sch)
+-   ein Vokal zwischen Konsonanten
+    -   wird nicht durch ein eigenes Zeichen, sondern
+        -   durch die Länge der Verbindung zwischen den Konsonanten und
+        -   die vertikale Position des folgenden Konsonanten ausgedrückt.
+    -   Länge der Verbindung:
+        -   kein Vokal = kein Abstand ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/lt.png "lt")
+        -   “e” = normaler Abstand ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/let.png "let")
+        -   “u” = weiter Abstand ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/lut.png "lut")
+    -   Vertikale Position: die Grundlinie des folgenden Konsonanten ist bei normalem Abstand
+        -   für “ö” = 2 Stufen höher ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/l%C3%B6t.png "löt") (weiter Abstand: eu, äu, oi)
+        -   “a” = 1 Stufe höher ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/lat.png "lat") (weiter Abstand: ei, ai)
+        -   “e” = selbe Stufe ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/let.png "let") (weiter Abstand: u, au)
+        -   “i” = 1 Stufe tiefer ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/lit.png "lit") (weiter Abstand: o)
+    -   “ä”, “ü”, “au” können jeweils von “e”, “i”, “u” durch einen darunter geschriebenen Punkt unterschieden werden: ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/l%C3%A4t_l%C3%BCt_laut.png "lät_lüt_laut")
+-   ein Vokal allein oder am Wortanfang beginnt auf der Grundlinie und wird in derselben Form wie vor einem einstufigen Konsonanten geschrieben (also von unten 1 bis 3 Stufen nach oben oder auf der gleichen Ebene): ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/%C3%B6l_al_el_il.png "öl_al_el_il")
+-   ein Vokal am Wortende wird in derselben Form wie vor einem einstufigen Konsonanten geschrieben (von der Endposition des vorhergehenden Konsonanten aus): ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/t%C3%B6_ta_te_ti.png "tö_ta_te_ti")
+-   aufeinander folgende Vokale werden durch ein spezielles Zeichen (sieht aus wie “c” in der Langschrift) getrennt: ![](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/beenden.png "beenden")
+-   Konsonantenfolgen (wie “cht” oder “nt”) werden einzeln geschrieben bei der Verbindung einer Vorsilbe mit dem Wortstamm und bei Wortzusammensetzungen: nacht-zug, aber nach-tisch; unter-stehen, aber un-ta-de-lig.

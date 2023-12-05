@@ -17,4 +17,4 @@ If you prefer to update Obsidian manually, you can disable automatic updates.
 
 ## Troubleshooting
 
-Some features may depend on a more recent installer version. If you experience issues with a recently added feature, consider [[Download and install Obsidian|reinstalling Obsidian]] to update the installer version.
+Some features may depend on a more recent installer version. If you experience issues with a recently added feature, consider [reinstalling Obsidian](Download%20and%20install%20Obsidian.md) to update the installer version.

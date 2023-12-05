@@ -3,7 +3,7 @@ Tags are a very useful way of grouping multiple notes so they are easy to find. 
 ### Add tags
 
 Just type `#` followed by tag name like `#tag1` 
-You can also add tags in the notes [[YAML front matter]] like so:
+You can also add tags in the notes [YAML front matter](YAML%20front%20matter.md) like so:
 
 ```
 ---
@@ -15,9 +15,9 @@ tags:
 
 ### Tag pane
 
-If you have the [[Tags]] plugin enabled, you will see a list of all tags that are used across all of your notes, sorted by frequency. Clicking on any of those will activate that search.
+If you have the [Tags](Tags.md) plugin enabled, you will see a list of all tags that are used across all of your notes, sorted by frequency. Clicking on any of those will activate that search.
 
-This will allow you to search exact matches of a tag. For example, when clicking , as per usual, but if you want to find all instances of `maintag` with all subtags, you can still use the [[Search]] to look for `#maintag`. This is useful in cases where you have subcategories of things but you also want to be able to easily find all instances of the higher category.
+This will allow you to search exact matches of a tag. For example, when clicking , as per usual, but if you want to find all instances of `maintag` with all subtags, you can still use the [Search](Search.md) to look for `#maintag`. This is useful in cases where you have subcategories of things but you also want to be able to easily find all instances of the higher category.
 
 ### Allowed characters
 
@@ -31,6 +31,6 @@ Spaces are not allowed in tags. So, to differentiate two or more words in a tag,
 The only symbols allowed are:
 
 1. `_` (underscore) and `-` (dash) to separate words;
-2. `/` (forward slash) for [[Tags#Nested tags|nested tags]].
+2. `/` (forward slash) for [nested tags](Tags#Nested%20tags).
 
 Numbers are allowed in the tag, ==as long as the tag is not purely numeric==. For example, #1984 isn't a valid tag, but #y1984 is a valid one.

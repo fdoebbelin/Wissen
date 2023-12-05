@@ -20,7 +20,7 @@ Which graphics card offers the fastest AI?
 
 [Comments (78)](https://www.tomshardware.com/news/stable-diffusion-gpu-benchmarks#xenforo-comments-3793737)
 
-![Stable Diffusion sample images](https://cdn.mos.cms.futurecdn.net/4b6AqUCPq2QhdhigeuDMMg-320-80.jpg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.jpg)
 
 (Image credit: Tom's Hardware)
 
@@ -38,47 +38,47 @@ We're also using different Stable Diffusion models, due to the choice of softwar
 
 Image 1 of 11
 
-![Stable Diffusion sample images](https://vanilla.futurecdn.net/tomshardware/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://vanilla.futurecdn.net/tomshardware/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
-![Stable Diffusion sample images](https://www.tomshardware.com/media/img/missing-image.svg)
+![Stable Diffusion sample images](media/Stable_Diffusion_sample_images.svg)
 
 (Image credit: Tom's Hardware)
 
@@ -109,7 +109,7 @@ Here are the results from our testing of the AMD RX 7000/6000-series, Nvidia RTX
 
 ](https://taongafarm.com/de/landings/gp/28 "Das entspannendste Spiel des Jahres 2022. Ohne Installation")[Das entspannendste Spiel des Jahres 2022. Ohne InstallationTaonga: Die Inselfarm](https://taongafarm.com/de/landings/gp/28 "Das entspannendste Spiel des Jahres 2022. Ohne Installation")[](https://trc.taboola.com/futureplc-tomshardwarecom/log/3/click?pi=%2Fnews%2Fstable-diffusion-gpu-benchmarks&ri=dc166a7d5f8f2714985db794aedc1bcc&sd=v2_36979fd158ba298466ae9b4a7e34eb87_66a4ec10-5948-4981-9164-9576b5bd72f7-tuctb96c123_1688026019_1688026019_CAwQy-9IGLPtw7GQMSABKAEwODib4wlAjYoQSK6z2QNQ____________AVgAYABo_LuwyLKmzYe-AXAB&ui=66a4ec10-5948-4981-9164-9576b5bd72f7-tuctb96c123&it=text&ii=~~V1~~3628447346035153166~~BKoGCWTlUnf4gNgu1jjiAnqd-dUV76UJSp5oiwy_ZFL6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQQas41f4COFvufOf52grWNe487k0pvO_9ezrwRupEiSMB7CKWDYR-vkpxcdUUzOgEqMBBvkdfag99mRDkZdH7GZIABZnE6iw0vZgovqPMyoCY6eD5jnG1QLwcl4nkEOHw5CoWLlX1uzG9gUBqYmKqk08KJRZ9mwaEcwcGgiTaJHWsUaZak2AcDXKoRwoERbO2SJxwhdJv3jKN701ohCgWIPvdAwBc-tgcz2_jjECScpI4w8PM6vv5gTX6XQUWwWKIP5ZnGm2FEG-o7XA_myzMADLnKYHyDCL2jFSRhl8Cex1yRhLST0Ofez4M8LqX_lrG3LzC3rPZAhWkOGz7RcDUQziWpaA6y5TNJSgSGVkT63tJ3Vjc3de0zIhoJSH_1k7BAHwxDkPBKvC6MFrH1rJZRg&pt=text&li=rbox-t2m&sig=02f596c08f652300481cd99f5067379ad48b113c638c&redir=https%3A%2F%2Ftaongafarm.com%2Fde%2Flandings%2Fgp%2F28%3Fref%3DW_150722_WW_Click_Video_DE%26scr%3Dtaboola%26utm_source%3Dtaboola%26mng%3DVK%26%D1%81%D1%81%3D19917578%26ac%3D3595522699%26pn%3Dfutureplc-tomshardwarecom%26pc%3D1193931%26lpc%3Dgp26%26utm_term%3D1193931_futureplc-tomshardwarecom%26utm_medium%3Ddisplay%26utm_campaign%3DW_150722_WW_Click_Video_DE%26utm_content%3D3595522699%23tblciGiBLUb-MxAHYHsvdMqtSitve-ulNvchtwcni7McGees5dyDJpEcorvnh-KPd1eZj&vi=1688026019507&p=volkagames-taongaww-sc&r=48&lti=em-in-body-sticky_var&ppb=CAc&cpb=Em8yMDIzMDYxOC0yNF9iMi1QUi01Nzk1NC1ERVYtMTM1Mjc3LWVtLWRpc3BsYXktdHJ5LXRvLWltcGxlbWVudC1vbmUtb2YtdGhlLXN1Z2dlc3RlZC1zb2x1dGlvbnMtZml4ZWQtZDZhMzVjMDc1OWIYkuenuQQgnP__________ASoZYW0udGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjNDAyODQ4gObPrg1Am-MJSI2KEFCus9kDWP___________wFjCPtGEOVdGDBkYwjd__________8BEN3__________wEYI2RjCIgqEKc4GCRkYwjSAxDgBhgIZGMIlhQQmhwYGGRjCIMvEJNGGAlkYwjIRhCeXRgKZGMI6yQQgDIYHWRjCPQUEJ4dGB9kYwjR__________8BENH__________wEYL2R4AYABAogBzsORW5ABHJgBje7DsZAx&cta=true)
 
-![Stable Diffusion initial benchmarks, January 2023](https://vanilla.futurecdn.net/tomshardware/media/img/missing-image.svg)
+![Stable Diffusion initial benchmarks, January 2023](media/Stable_Diffusion_initial_benchmarks,_January_2023.svg)
 
 (Image credit: Tom's Hardware)
 
@@ -127,7 +127,7 @@ Overall then, using the specified versions, Nvidia's RTX 40-series cards are the
 
 RECOMMENDED VIDEOS FOR YOU...
 
-![Stable Diffusion initial benchmarks, January 2023](https://vanilla.futurecdn.net/tomshardware/media/img/missing-image.svg)
+![Stable Diffusion initial benchmarks, January 2023](media/Stable_Diffusion_initial_benchmarks,_January_2023.svg)
 
 (Image credit: Tom's Hardware)
 
@@ -143,7 +143,7 @@ Finally, the GTX 1660 Super on paper should be about 1/5 the theoretical perform
   
 Again, it's not clear exactly how optimized any of these projects are. It's also not clear if these projects are fully leveraging things like Nvidia's Tensor cores or Intel's XMX cores. As such, we thought it would be interesting to look at the maximum theoretical performance (TFLOPS) from the various GPUs. The following chart shows the theoretical FP16 performance for each GPU (only looking at the more recent graphics cards), using tensor/matrix cores where applicable. Nvidia's results also include scarcity — basically the ability to skip multiplications by 0 for up to half the cells in a matrix, which is supposedly a pretty frequent occurrence with deep learning workloads.
 
-![Stable Diffusion initial benchmarks, January 2023](https://vanilla.futurecdn.net/tomshardware/media/img/missing-image.svg)
+![Stable Diffusion initial benchmarks, January 2023](media/Stable_Diffusion_initial_benchmarks,_January_2023.svg)
 
 (Image credit: Tom's Hardware)
 
@@ -155,7 +155,7 @@ The internal ratios on Arc do look about right, though. Theoretical compute perf
   
 The other thing to notice is that theoretical compute on AMD's RX 7900 XTX/XT improved a lot compared to the RX 6000-series. We'll have to see if the tuned 6000-series models closes the gaps, as Nod.ai said it expects about a 2X improvement in performance on RDNA 2. Memory bandwidth wasn't a critical factor, at least for the 512x512 target resolution we used — the 3080 10GB and 12GB models land relatively close together.
 
-![Stable Diffusion initial benchmarks, January 2023](https://vanilla.futurecdn.net/tomshardware/media/img/missing-image.svg)
+![Stable Diffusion initial benchmarks, January 2023](media/Stable_Diffusion_initial_benchmarks,_January_2023.svg)
 
 (Image credit: Tom's Hardware)
 
@@ -163,7 +163,7 @@ Here's a different look at theoretical FP16 performance, this time focusing only
   
 Clearly, this second look at FP16 compute doesn't match our actual performance any better than the chart with Tensor and Matrix cores, but perhaps there's additional complexity in setting up the matrix calculations and so full performance requires... something extra. Which brings us to one last chart.
 
-![Stable Diffusion initial benchmarks, January 2023](https://vanilla.futurecdn.net/tomshardware/media/img/missing-image.svg)
+![Stable Diffusion initial benchmarks, January 2023](media/Stable_Diffusion_initial_benchmarks,_January_2023.svg)
 
 (Image credit: Tom's Hardware)
 

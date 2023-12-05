@@ -1,6 +1,6 @@
-This page explains how to manage [[Introduction to Obsidian Publish|Obsidian Publish]] sites.
+This page explains how to manage [Obsidian Publish](Introduction%20to%20Obsidian%20Publish.md) sites.
 
-A site is a collection of notes that's hosted by Obsidian Publish and available online, either through a Obsidian Publish address or a [[Set up a custom domain|custom domain]].
+A site is a collection of notes that's hosted by Obsidian Publish and available online, either through a Obsidian Publish address or a [custom domain](Set%20up%20a%20custom%20domain.md).
 
 ## Create a new site
 

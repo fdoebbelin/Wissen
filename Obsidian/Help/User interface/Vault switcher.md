@@ -2,9 +2,9 @@ Vault switcher lets you switch between existing vaults and create new vaults.
 
 ## Open vault switcher
 
-To open the vault switcher, click on the vault icon at the bottom group of the [[Ribbon]] actions. The tooltip text should say “Open another vault”.
+To open the vault switcher, click on the vault icon at the bottom group of the [Ribbon](Ribbon.md) actions. The tooltip text should say “Open another vault”.
 
-You can see the [[#current vault list]] and [[#create new vaults]] here. Because this is the first screen new users see, it also displays the name of the program and the current version, along with a dropdown to switch [[Interface language]].
+You can see the [current vault list](#current%20vault%20list) and [create new vaults](#create%20new%20vaults) here. Because this is the first screen new users see, it also displays the name of the program and the current version, along with a dropdown to switch [Interface language](Interface%20language.md).
 
 ## Current vault list
 

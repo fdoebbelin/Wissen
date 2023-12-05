@@ -6,7 +6,7 @@ Obsidian comes with two base themes, light and dark. This option sets the defaul
 
 There are lots of community themes contributed by our amazing community that you can easily choose from.
 
-You can easily tweak it by adding [[Add custom styles#Use Themes and or CSS snippets|CSS snippets]].
+You can easily tweak it by adding [CSS snippets](Add%20custom%20styles#Use%20Themes%20and%20or%20CSS%20snippets).
 
 ### Translucency
 

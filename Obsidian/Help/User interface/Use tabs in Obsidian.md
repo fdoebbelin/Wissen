@@ -83,7 +83,7 @@ You can stack tabs to slide them over other tabs in the same tab group.
 
 To stack notes, select the down arrow at the upper right corner of the tab group, and then select **Stack notes**.
 
-![tab-stacks](https://user-images.githubusercontent.com/693981/188205363-0f24b2a5-3706-4a8c-b38b-7a66baa68ce6.gif)
+![tab-stacks](media/tab-stacks.gif)
 
 > [!note] Matushak mode
 > Tab stacks are based on [Andy Matushak's sliding notes](https://notes.andymatuschak.org/).
@@ -94,9 +94,9 @@ _Linked views_ are tabs that reference a different tab. When the content of the 
 
 For note tabs, you can use the following plugins as linked views:
 
-- [[Graph view]] (local)
-- [[Backlinks]]
-- [[Outline]]
+- [Graph view](Graph%20view.md) (local)
+- [Backlinks](Backlinks.md)
+- [Outline](Outline.md)
 
 To open a linked view for a note tab:
 
@@ -105,4 +105,4 @@ To open a linked view for a note tab:
 
 ## Learn more
 
-- You can save and restore window layouts using the [[Workspaces]] plugin.
+- You can save and restore window layouts using the [Workspaces](Workspaces.md) plugin.

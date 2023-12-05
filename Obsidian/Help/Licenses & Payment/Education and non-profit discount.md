@@ -2,7 +2,7 @@
 alias: "Student and non-profit discount"
 ---
 
-Obsidian currently offers two types of discounts: education and non-profit. They both give you 40% off our add-on services, including [[Introduction to Obsidian Sync|Obsidian Sync]] and [[Introduction to Obsidian Publish|Obsidian Publish]].
+Obsidian currently offers two types of discounts: education and non-profit. They both give you 40% off our add-on services, including [Obsidian Sync](Introduction%20to%20Obsidian%20Sync.md) and [Obsidian Publish](Introduction%20to%20Obsidian%20Publish.md).
 
 ### How to apply
 
@@ -20,7 +20,7 @@ Congratulations! Now you’ll see the discount when you try to purchase Obsidian
 
 Once you have an active discount, you can see how it will expire under **Payment & billing** → **Discount** on [your account page](https://obsidian.md/account).
 
-A week before your discount expires, you will get an email reminder to renew it. You can follow the same steps in "[[#How to apply]]" to renew the discount, if you still qualify for it.
+A week before your discount expires, you will get an email reminder to renew it. You can follow the same steps in "[How to apply](#How%20to%20apply)" to renew the discount, if you still qualify for it.
 
 ### FAQ
 

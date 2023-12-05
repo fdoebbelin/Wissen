@@ -4,7 +4,7 @@ source: https://machinelearning.apple.com/research/stable-diffusion-coreml-apple
 
 Today, we are excited to release optimizations to Core ML for [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement) in macOS 13.1 and iOS 16.2, along with code to get started with deploying to Apple Silicon devices.
 
-[![Figure 1: Images generated with the prompts, 'a high quality photo of an astronaut riding a (horse/dragon) in space' using Stable Diffusion and Core ML + diffusers running on-device on Apple Silicon.'](https://mlr.cdn-apple.com/media/sd_fig1_9b8ff98240.jpg)](https://mlr.cdn-apple.com/media/sd_fig1_9b8ff98240.jpg)
+[![Figure 1: Images generated with the prompts, 'a high quality photo of an astronaut riding a (horse/dragon) in space' using Stable Diffusion and Core ML + diffusers running on-device on Apple Silicon.'](media/Figure_1!_Images_generated_with_the_prompts,_'a_high_quality_photo_of_an_astronaut_riding_a_(horse!d.jpg)](https://mlr.cdn-apple.com/media/sd_fig1_9b8ff98240.jpg)
 
 Figure 1: Images generated with the prompts, "a high quality photo of an astronaut riding a (horse/dragon) in space" using Stable Diffusion and Core ML + diffusers running on-device on Apple Silicon.
 

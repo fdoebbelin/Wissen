@@ -7,17 +7,17 @@ OpenVINO Notebooks comes with a handful of AI examples. But do you know that we 
 
 Here are some results I got running the notebook and it’s pretty fun. With my Intel Arc A770m, I can get approximately 6.0 iterations per second (without debug mode). What it means is usually it takes less about 10 seconds to generate a high-quality image below.
 
-![](https://miro.medium.com/v2/resize:fit:640/0*HiR9r22VhKpBt6cn.png)
+![](media/0!HiR9r22VhKpBt6cn.png)
 
-![](https://miro.medium.com/v2/resize:fit:640/1*QNrePgfZulhAZZqw3Djgaw.png)
+![](media/1!QNrePgfZulhAZZqw3Djgaw.png)
 
-![](https://miro.medium.com/v2/resize:fit:640/1*srI15ufZ5I8EwW79B_qdeg.png)
+![](media/1!srI15ufZ5I8EwW79B_qdeg.png)
 
 Stable Diffusion text-to-image results with the OpenVINO Notebooks and Intel Arc A770m.
 
-![](https://miro.medium.com/v2/resize:fit:1000/1*a-pwI6bZTzC1QaEMCPvfMA.jpeg)
+![](media/1!a-pwI6bZTzC1QaEMCPvfMA.jpeg.jpg)
 
-![](https://miro.medium.com/v2/resize:fit:1000/1*3jZ48S9KcS51G-BJNVM2fQ.png)
+![](media/1!3jZ48S9KcS51G-BJNVM2fQ.png)
 
 Image-to-Image example, turning a photo into a watercolor painting.
 
@@ -30,13 +30,13 @@ If you wish to launch only one notebook, like the Monodepth notebook, run the co
 github.com
 https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks
 
-![](https://miro.medium.com/v2/resize:fit:875/1*UZmi8SX5up3XSvTk6eUU_w.png)
+![](media/1!UZmi8SX5up3XSvTk6eUU_w.png)
 
 Stable Diffusion is under the 225-stable-diffusion-text-to-image folder
 
 And in the demo notebook, we introduced not only the famous Text-to-mage pipeline but also included the Image-to-Image generation pipeline. But what does it really mean and how do we run it?
 
-![](https://miro.medium.com/v2/resize:fit:875/0*6BUVX1cGrWY0gw1l.png)
+![](media/0!6BUVX1cGrWY0gw1l.png)
 
 Pipelines
 
@@ -89,17 +89,17 @@ jupyter lab notebooks
 
 ```
 
-![](https://miro.medium.com/v2/resize:fit:875/1*e_azjYzgWPh6N1uPNzOqCg.png)
+![](media/1!e_azjYzgWPh6N1uPNzOqCg.png)
 
 Run All Cells and wait =)
 
 Now, if you look into the code. What we have done is really optimize the PyTorch pipeline and execute the code with OpenVINO.
 
-![](https://miro.medium.com/v2/resize:fit:875/1*2ilaf0qE3C0-J6MvV-0ACw.png)
+![](media/1!2ilaf0qE3C0-J6MvV-0ACw.png)
 
 The downloading and converting may take a little while for the first time. Once it’s completed you will get a set of IR files. For your convenience, I’ve already updated these pre-trained, optimized models here to huggingface.
 
-![](https://miro.medium.com/v2/resize:fit:875/1*yyn7IuflE7c-K6SbZRWgbw.png)
+![](media/1!yyn7IuflE7c-K6SbZRWgbw.png)
 
 [
 
@@ -115,37 +115,37 @@ huggingface.co
 
 Now, if you are blessed with the Intel Arc GPUs, you can change the code to “GPU”. By default, it’s using AUTO, and thus it will switch to GPU automatically if it’s detected.
 
-![](https://miro.medium.com/v2/resize:fit:875/1*n783B-qYMJ-dt8UK1an9ew.png)
+![](media/1!n783B-qYMJ-dt8UK1an9ew.png)
 
 Make it run on GPUs
 
-![](https://miro.medium.com/v2/resize:fit:875/1*vFs3nXXqDs6qqbtNJpEAaw.png)
+![](media/1!vFs3nXXqDs6qqbtNJpEAaw.png)
 
 Auto-plugin. It started by first using the CPU, then switch to GPU automatically.
 
 And here in this step, I have set the steps to 30. Ideally, I would use 50 as it will provide the best-looking results. You can generate different scenes here by modifying the input text. If you want to get some really cool looking images, you can try some of the top prompts the community put together. [https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/](https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/)
 
-![](https://miro.medium.com/v2/resize:fit:875/1*gYVJGyXqoLZ106gvcIU3Vg.png)
+![](media/1!gYVJGyXqoLZ106gvcIU3Vg.png)
 
 In the end, we also generated the GIF file for you to visualize what happened between each step.
 
-![](https://miro.medium.com/v2/resize:fit:4800/1*p3K8TN09UsWYgL69ifi_hQ.png)
+![](media/1!p3K8TN09UsWYgL69ifi_hQ.png)
 
-![](https://miro.medium.com/v2/resize:fit:640/1*P_FaedcSm0T0Rx-WFw9GDg.gif)
+![](media/1!P_FaedcSm0T0Rx-WFw9GDg.gif)
 
 ## Image-to-image pipeline
 
 Now, if you continue on the notebooks, you will see we can also use a prompt to ‘influence’ the look of the final image. Here we provided an example of converting our photo into a watercolor painting.
 
-![](https://miro.medium.com/v2/resize:fit:4800/1*jqhz7YbaENVeiEgJfoTfqQ.png)
+![](media/1!jqhz7YbaENVeiEgJfoTfqQ.png)
 
-![](https://miro.medium.com/v2/resize:fit:1650/1*rrmvwzNB6EHm_-KBOTGR_A.gif)
+![](media/1!rrmvwzNB6EHm_-KBOTGR_A.gif)
 
 Generating an image based on an initial image and a prompt. This way the result will be guided.
 
-![](https://miro.medium.com/v2/resize:fit:1650/1*vtvsYVcgDKIi77ApmmgZ7g.jpeg)
+![](media/1!vtvsYVcgDKIi77ApmmgZ7g.jpeg.jpg)
 
-![](https://miro.medium.com/v2/resize:fit:1650/1*TbjMIz7MDZbJy2O08hTYAA.png)
+![](media/1!TbjMIz7MDZbJy2O08hTYAA.png)
 
 Image-to-image result.
 

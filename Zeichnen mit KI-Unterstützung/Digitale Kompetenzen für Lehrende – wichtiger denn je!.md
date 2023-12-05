@@ -7,7 +7,7 @@ Wie soll es weitergehen, wenn die pandemiebedingten Einschränkungen zurückgeno
 Was benötigen Lehrende, um erfolgreich online unterrichten zu können? Ein Modell, das zur Konzipierung von Aus- und Weiterbildungsmaßnahmen für Lehrende im digitalen Unterrichten gut geeignet ist, ist der European Framework for the Digital Competence of Educators (DigCompEdu). Entwickelt wurde dieser europäische Referenzrahmen als eine flexible Orientierungshilfe und als Grundlage für die Entwicklung weiterer Modelle und Konzeptbeschreibungen aller beteiligten Akteur*innen (zum Beispiel relevanter nationaler und regionaler Bildungsinstitutionen). Der Rahmen richtet sich an Lehrende auf allen Bildungsebenen (von frühkindlicher Bildung bis zur Erwachsenenbildung) und kann an jeden spezifischen Bildungskontext angepasst werden (vergleiche: Redecker & Punie, 2017: Seiten 9–13).  
   
 Der DigComEdu beschreibt insgesamt 22 digitale Kompetenzen Lehrender, die sechs Bereichen zugeordnet werden. Da die Bereiche und die Kompetenzen im DigComEdu sehr gut beschrieben werden, gehen wir nur auf drei, uns zentral erscheinende Bereiche des Kompetenzrahmens ein.  
- ![Abbildung 1](https://www.goethe.de/resources/files/jpg1096/abbildung-1-deutsch-formatkey-jpg-w983.jpg "Abbildung 1") Abbildung 1: DigCompEdu – Übersicht über die Kompetenzbereiche (Redecker & Punie, 2019: Seite 6) | © Redecker & Punie
+ ![Abbildung 1](media/Abbildung_1.jpg) Abbildung 1: DigCompEdu – Übersicht über die Kompetenzbereiche (Redecker & Punie, 2019: Seite 6) | © Redecker & Punie
 
 ##   
 Digitalisiert Lehren
@@ -17,12 +17,12 @@ Die Hauptaufgabe von Lehrenden ist das Lehren und die Unterstützung des Lernens
 ## Lernende durch digitale Lehre stärken
 
 Lehrende sollten dafür sensibilisiert werden, dass die digitale Lehre viele Potenziale für eine größere Orientierung der Lernenden bietet (der englische DigComEdu spricht vom „empowerment“ der Lernenden, der das Potenzial viel plastischer benennt, siehe Abbildung 2). So können digitale Medien helfen, den Unterricht zugänglicher und inklusiver zu machen, sie können für die Individualisierung und Differenzierung der Lehr- und Lernprozesse und zum Aktivieren der Lernenden eingesetzt werden – wenn die Lehrenden über die entsprechenden Kompetenzen verfügen.  
- ![Abbildung 2](https://www.goethe.de/resources/files/jpg1096/abbildung-2-formatkey-jpg-w983.jpg "Abbildung 2") Abbildung 2: DigCompEdu – Ausführungen zum Kompetenzbereich „Lernendenorientierung“ (Redecker & Punie, 2017: Seite 22) | © Redecker & Punie
+ ![Abbildung 2](media/Abbildung_2.jpg) Abbildung 2: DigCompEdu – Ausführungen zum Kompetenzbereich „Lernendenorientierung“ (Redecker & Punie, 2017: Seite 22) | © Redecker & Punie
 
 ## Wie können Lehrende ihre digitalen Kompetenzen (weiter) ausbauen?
 
 Vor der Corona-Pandemie gab es bei den Fortbildungsangeboten häufig viele Einsteiger*innen‑Fortbildungen und einige wenige Angebote für digital kompetentere Lehrende. Nach der Corona‑Pandemie erscheint das nicht mehr ausreichend: Die Lehrenden verfügen nun über viel mehr Erfahrung und damit auch über neue Kompetenzen – aber in völlig unterschiedlichen Bereichen. Der (weitere) Kompetenzaufbau im Bereich digitaler Kompetenzen muss also viel differenzierter erfolgen als bislang. Auch hier kann der DigCompEdu in gewissem Umfang hilfreich sein: Er ist nämlich nicht nur ein Referenzrahmen, sondern gleichzeitig ein Progressionsmodell zur Selbsteinschätzung digitaler Kompetenzen. Der Kompetenzrahmen kann Lehrenden damit helfen, sowohl den Ist‑Stand ihrer digitalen Kompetenzen zu erfassen als auch ihren erwünschten Kompetenzgewinn durch Fortbildungsveranstaltungen beispielsweise zu benennen oder diesen nach erfolgten Weiterbildungsmaßnahmen einzuschätzen.  
- ![Abbildung 3](https://www.goethe.de/resources/files/jpg1096/abbildung-3-deutsch-formatkey-jpg-w983.jpg "Abbildung 3") Abbildung 3: Progressionsmodell des DigCompEdu (Redecker & Punie, 2019: Seite 23) | © Redecker & Punie
+ ![Abbildung 3](media/Abbildung_3.jpg) Abbildung 3: Progressionsmodell des DigCompEdu (Redecker & Punie, 2019: Seite 23) | © Redecker & Punie
 
 ##   
 Wie kann der Kompetenzaufbau auf Schulebene unterstützt werden?

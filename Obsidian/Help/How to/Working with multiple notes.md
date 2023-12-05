@@ -6,15 +6,15 @@ To effectively use split view, you only need to know a few things:
 
 By default, when you click something, it will open in the active pane. The active pane is marked with a highlighted bar under the title, and its title is more visible than the inactive panes.
 
-To open files in new panes, hold down `Ctrl/Cmd` while you click in Preview mode (`Shift + Ctrl/Cmd` in Edit mode). This applies to a number of places, including [[file explorer]], [[backlinks]] (both links and unlinked mentions), [[search]] results, and [[graph view]]. It also applies to buttons; instead of previewing in the current pane, you can `Cmd+click` the preview button to preview in a new pane. When using the Quick Switcher, holding down `Cmd/Ctrl`when hitting `Enter` will open in a new pane. 
+To open files in new panes, hold down `Ctrl/Cmd` while you click in Preview mode (`Shift + Ctrl/Cmd` in Edit mode). This applies to a number of places, including [file explorer](file%20explorer.md), [backlinks](backlinks.md) (both links and unlinked mentions), [search](search.md) results, and [graph view](graph%20view.md). It also applies to buttons; instead of previewing in the current pane, you can `Cmd+click` the preview button to preview in a new pane. When using the Quick Switcher, holding down `Cmd/Ctrl`when hitting `Enter` will open in a new pane. 
 
 ---
 
 ##### 2. You can also create new panes by ==splitting==.
 
-To create other layouts, you can split the current pane in half either horizontally or vertically. Do this with the menu at the top right of the pane, use the command palette, or set a [[Use hotkeys]].
+To create other layouts, you can split the current pane in half either horizontally or vertically. Do this with the menu at the top right of the pane, use the command palette, or set a [Use hotkeys](Use%20hotkeys.md).
 
-![[Pasted image 16.png]]
+![](Pasted%20image%2016.png)
 
 ---
 
@@ -22,7 +22,7 @@ To create other layouts, you can split the current pane in half either horizonta
 
 This is great if you're working on something and want to use the other panes as temporary reference panes. Pin it to make sure it never gets replaced.
 
-![[Pasted image 17.png]]
+![](Pasted%20image%2017.png)
 
 Pinned panes will have a highlighted pin icon instead of a grey one.
 
@@ -30,19 +30,19 @@ Pinned panes will have a highlighted pin icon instead of a grey one.
 
 ##### 4. Use ==linked panes== for previewing.
 
-When creating [[Linked pane|linked panes]], `Ctrl/Cmd+click` the preview or edit button when a Markdown file is open.
+When creating [linked panes](Linked%20pane.md), `Ctrl/Cmd+click` the preview or edit button when a Markdown file is open.
 
 When linked to another pane, the panes' scroll position will be synced, and if you open a file in one pane, the other pane will open the same file.
 
-[[Linked pane|Linked panes]] will be marked with a link icon. You can hover the link to see which pane it's linked to, or click the icon to release it so that they are no longer linked.
+[Linked panes](Linked%20pane.md) will be marked with a link icon. You can hover the link to see which pane it's linked to, or click the icon to release it so that they are no longer linked.
 
-For more information, see [[Linked pane|linked panes]].
+For more information, see [linked panes](Linked%20pane.md).
 
-![[Pasted image 18.png]]
+![](Pasted%20image%2018.png)
 
 ##### 5. Panes can be ==rearranged by dragging==.
 
-Grab the icon in the upper-left corner to arrange them however you need. For detailed information, see [[Pane layout]].
+Grab the icon in the upper-left corner to arrange them however you need. For detailed information, see [Pane layout](Pane%20layout).
 
 ---
 

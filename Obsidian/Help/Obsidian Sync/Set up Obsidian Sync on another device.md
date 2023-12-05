@@ -9,7 +9,7 @@ In this guide, you'll create a local vault on another device to sync with your r
 
 ## Prerequisites
 
-You need to have [[set up Obsidian Sync]] on at least one device and have created a remote vault on Obsidian Sync.
+You need to have [set up Obsidian Sync](set%20up%20Obsidian%20Sync.md) on at least one device and have created a remote vault on Obsidian Sync.
 
 ## Sync a remote vault on a fresh installation
 
@@ -30,9 +30,9 @@ If this is the first time you open Obsidian on the device, follow these steps:
 
 This section explains how to sync an existing local vault with a remote vault.
 
-![[Set up Obsidian Sync#Log in with your Obsidian account]]
+![](Set%20up%20Obsidian%20Sync#Log%20in%20with%20your%20Obsidian%20account)
 
-![[Set up Obsidian Sync#Enable Obsidian Sync]]
+![](Set%20up%20Obsidian%20Sync#Enable%20Obsidian%20Sync)
 
 ### Connect to a remote vault
 
@@ -46,4 +46,4 @@ This section explains how to sync an existing local vault with a remote vault.
 
 Obsidian Sync displays a green checkmark in the bottom-right corner when it has finished syncing the vaults.
 
-If you don't want to sync the entire vault to your device, refer to [[Select files and settings to sync]].
+If you don't want to sync the entire vault to your device, refer to [Select files and settings to sync](Select%20files%20and%20settings%20to%20sync.md).

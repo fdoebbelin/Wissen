@@ -1,3 +1,3 @@
-![Anleitung Stiefografie](http://www.jsteeb.de/helmut/rationelle-stenografie-stiefografie/Anleitung.jpg)
+![Anleitung Stiefografie](media/Anleitung_Stiefografie.jpg)
 
 (Zeichen aus klartraumforum.de, alphabetisch sortiert)

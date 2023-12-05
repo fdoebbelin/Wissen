@@ -2,12 +2,12 @@ While Obsidian is free of charge for personal use, you can support the Obsidian 
 
 While the Catalyst license doesn't grant you any additional features inside the app itself, you'll receive exclusive benefits, such as:
 
-- Early access to [[#Enable Insider builds|Insider builds]].
-- Access to exclusive [[#Join our Insider channels|Insider channels]].
-- Cool and unique [[#Get your forum badge|forum badges]] and [[#Get your Discord badge|Discord badges]].
+- Early access to [Insider builds](#Enable%20Insider%20builds).
+- Access to exclusive [Insider channels](#Join%20our%20Insider%20channels).
+- Cool and unique [forum badges](#Get%20your%20forum%20badge) and [Discord badges](#Get%20your%20Discord%20badge).
 
 > [!Note] Commercial use
-> If you use Obsidian for work, you may need to obtain a [[Commercial license]].
+> If you use Obsidian for work, you may need to obtain a [Commercial license](Commercial%20license.md).
 
 ## Catalyst tiers
 
@@ -49,8 +49,8 @@ Once you've purchased a Catalyst license, you can access a range of benefits. Le
 
 Insiders can chat with the Obsidian team and other Insiders in our exclusive Discord channels.
 
-You automatically join the Insider channels after you [[#Get your Discord badge]].
+You automatically join the Insider channels after you [Get your Discord badge](#Get%20your%20Discord%20badge).
 
 ### Enable Insider builds
 
-Please see [[Insider builds]].
+Please see [Insider builds](Insider%20builds.md).

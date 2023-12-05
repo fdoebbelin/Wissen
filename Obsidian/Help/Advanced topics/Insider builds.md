@@ -1,6 +1,6 @@
 Get early access to upcoming releases by enabling _Insider builds_.
 
-Insider builds are only available to users with a [[Catalyst license]].
+Insider builds are only available to users with a [Catalyst license](Catalyst%20license.md).
 
 > [!warning]
 > Insider builds are development builds and may be unstable. Don't enable Insider builds if you prefer a more reliable experience.
@@ -18,7 +18,7 @@ To receive new Insider builds as soon as they're available, follow these steps:
 To find instructions on how to install Insider builds on your mobile device, follow these steps:
 
 1. Join the [Obsidian Discord server](https://discord.gg/veuWUTm).
-1. [[Catalyst license#Get your Discord badge|Get your Discord badge]] to access insider channels.
+1. [Get your Discord badge](Catalyst%20license#Get%20your%20Discord%20badge) to access insider channels.
 1. Open Discord.
 1. In the `#insider-mobile` channel, open **Pinned Messages**.
 	- On desktop, select the pushpin icon in the upper-right corner.

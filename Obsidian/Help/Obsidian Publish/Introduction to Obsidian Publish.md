@@ -10,8 +10,8 @@ If you're reading this on [help.obsidian.md](https://help.obsidian.md), you're a
 
 ## Learn more
 
-- If you're a new Obsidian Publish user, learn how to [[Set up Obsidian Publish]].
-- If you have more than one site, learn how to [[Manage sites]].
-- If you want to customize how your site looks, refer to [[Customize your site]].
-- If you want to know how we keep your notes safe, refer to [[Security and privacy]].
-- If you want to use your own domain, refer to [[Set up a custom domain|custom domain]].
+- If you're a new Obsidian Publish user, learn how to [Set up Obsidian Publish](Set%20up%20Obsidian%20Publish.md).
+- If you have more than one site, learn how to [Manage sites](Manage%20sites.md).
+- If you want to customize how your site looks, refer to [Customize your site](Customize%20your%20site.md).
+- If you want to know how we keep your notes safe, refer to [Security and privacy](Security%20and%20privacy.md).
+- If you want to use your own domain, refer to [custom domain](Set%20up%20a%20custom%20domain.md).

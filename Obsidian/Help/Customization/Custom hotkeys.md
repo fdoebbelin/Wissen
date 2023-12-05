@@ -2,11 +2,11 @@ Most hotkeys are customizable in Obsidian.
 
 We only defined default hotkeys for the most commonly used commands, but if you frequently use a command, it would save you lots of time if you add a hotkey for it.
 
-For a list of default hotkeys, [[Use hotkeys|see here]].
+For a list of default hotkeys, [see here](Use%20hotkeys.md).
 
 ### Viewing hotkeys
 
-The fastest way to see the hotkey set for a command is to find the command in [[Command palette]]. If there's a hotkey listed for that command, it's set.
+The fastest way to see the hotkey set for a command is to find the command in [Command palette](Command%20palette.md). If there's a hotkey listed for that command, it's set.
 
 ### Setting hotkeys
 

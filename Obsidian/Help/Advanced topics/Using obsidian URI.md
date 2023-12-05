@@ -104,7 +104,7 @@ Possible parameters:
 - `silent` (optional) set this if you don't want to open the new note.
 - `append` (optional) append to an existing file if one exists.
 - `overwrite` (optional) overwrite an existing file if one exists, but only if `append` is not set.
-- `x-success` (optional) see [[#x-callback-url]].
+- `x-success` (optional) see [x-callback-url](#x-callback-url).
 
 Examples:
 
@@ -122,8 +122,8 @@ If `x-success` is defined, this API will use it as the x-callback-url. Otherwise
 Possible parameters:
 
 - `vault` (optional) can be either the vault name, or the vault ID. If not provided, the current or last focused vault will be used.
-- `x-success` (optional) see [[#x-callback-url]].
-- `x-error` (optional) see [[#x-callback-url]].
+- `x-success` (optional) see [x-callback-url](#x-callback-url).
+- `x-error` (optional) see [x-callback-url](#x-callback-url).
 
 ## x-callback-url
 

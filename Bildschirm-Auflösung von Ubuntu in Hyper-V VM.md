@@ -1,11 +1,11 @@
 
 Hat man im Hyper-V von Microsoft ein Ubuntu/Linux als virtuelle Maschine installiert, kann es vorkommen, dass die Bildschirmauflösung des Ubuntus sehr klein ist und nicht die mögliche Auflösung des physikalisch vorhanden Monitors einnimmt, wie zum Beispiel im nachfolgenden Bild dargestellt.
 
-![](https://ekiwi-blog.de/wp-content/uploads/2022/03/bildschirmaufloesung-ubuntu-hyper-v.png)
+![](_resources/bildschirmaufloesung-ubuntu-hyper-v.png)
 
 Die Einstellungen zum Anzeigegerät unter Ubuntu bieten in diesem Fall auch nur eine bestimmte Auflösung an und es lässt sich keine andere auswählen.
 
-![](https://ekiwi-blog.de/wp-content/uploads/2022/03/einstellungen-anzeigegeraet-ubuntu.png)
+![](_resources/einstellungen-anzeigegeraet-ubuntu.png)
 
 Um die Auflösung an den Monitor anzupassen muss man Anpassungen an der Konfigurationsdatei des GRUB-Bootloader von Linux vornehmen. Dafür muss man die grub-Datei bearbeiten.
 
@@ -25,13 +25,13 @@ Innerhalb der grub-Konfigurationsdatei muss man den Eintrag `GRUB_CMDLINE_LINUX_
 
 `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash video=hyperv_fb:1920×1080"`
 
-![](https://ekiwi-blog.de/wp-content/uploads/2022/03/grub-nano-konfigurationsdatei.png)
+![](_resources/grub-nano-konfigurationsdatei.png)
 
 Jetzt noch die Konfigurationsdatei im Nano-Editor speichern (Strg+O) und den Editor verlassen (Strg+X). Der Bootloader muss jetzt noch mit folgendem Befehl geupdated werden
 
 `~$ sudo update-grub`
 
-![](https://ekiwi-blog.de/wp-content/uploads/2022/03/terminal-grub-update.png)
+![](_resources/terminal-grub-update.png)
 
 Danach startet man die virtuelle Maschine neu (Befehl **reboot** im Terminal). Das Ubuntu startet dann mit der entsprechenden Auflösung. Verständlicherweise wird man eine Auflösung wählen, die mit dem verwendeten Monitor übereinstimmt. Es sind aber auch theoretisch andere individuelle Bildschirmauflösungen denkbar.
 

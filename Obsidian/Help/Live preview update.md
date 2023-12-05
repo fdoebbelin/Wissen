@@ -4,11 +4,11 @@ Live Preview is a new editor mode that lets you preview your notes in the same v
 
 This is what your editing experience used to look like:
 
-![[Source view.png]]
+![](Source%20view.png)
 
 And here's the same note using Live Preview:
 
-![[Live Preview.gif]]
+![](Live%20Preview.gif)
 
 Live Preview gives you an improved editing experience that lets you see how your Markdown note will look like, without having to switch between Edit and Preview.
 
@@ -37,9 +37,9 @@ You can also toggle the editing view by opening the Command palette and searchin
 
 Live Preview and Source mode are two ways to edit your Markdown notes in Obsidian. Try them out to see which one you prefer!
 
-If you want to know how the terminology changes with the new features, here's a handy chart by [[Credits#^a4b3a2|Argentum]]:
+If you want to know how the terminology changes with the new features, here's a handy chart by [Argentum](Credits#^a4b3a2):
 
-![[Editor update chart.png]]
+![](Editor%20update%20chart.png)
 
 ## Wait, I'm not ready to switch!
 

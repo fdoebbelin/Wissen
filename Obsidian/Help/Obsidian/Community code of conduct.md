@@ -52,9 +52,9 @@ Please flag the relevant conversation with a reason, and our moderator team will
 > A verified major offense results in an immediate ban.
 > A verified minor offense results in a warning; after that a second verified violation results in a ban.
 
-If our moderator team witnesses or receives a report about a [[#major offense]], we will contact the offender to have a conversation with them and verify what has happened, and they will be removed from our community.
+If our moderator team witnesses or receives a report about a [major offense](#major%20offense), we will contact the offender to have a conversation with them and verify what has happened, and they will be removed from our community.
 
-If our moderator team witnesses or receives a report about a [[#minor offense]], we will contact the member involved to explain why their behavior was unacceptable, and warn them that a second code of conduct violation will result in us removing them from our community.
+If our moderator team witnesses or receives a report about a [minor offense](#minor%20offense), we will contact the member involved to explain why their behavior was unacceptable, and warn them that a second code of conduct violation will result in us removing them from our community.
 
 ## Credits
 

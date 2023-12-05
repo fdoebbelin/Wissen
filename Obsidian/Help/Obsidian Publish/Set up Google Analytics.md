@@ -1,4 +1,4 @@
-[Google Analytics](https://analytics.google.com) is a service that allows you to track traffic on your website. This page explains how to enable Google Analytics for your [[Introduction to Obsidian Publish|Obsidian Publish]] site.
+[Google Analytics](https://analytics.google.com) is a service that allows you to track traffic on your website. This page explains how to enable Google Analytics for your [Obsidian Publish](Introduction%20to%20Obsidian%20Publish.md) site.
 
 > [!important]
 > Before you enable Google Analytics, make sure that your local laws and regulations allow you to track your visitors.
@@ -7,7 +7,7 @@
 
 To use Google Analytics for Obsidian, you need:
 
-- A [[Set up a custom domain|custom domain]] for your Obsidian Publish site.
+- A [custom domain](Set%20up%20a%20custom%20domain.md) for your Obsidian Publish site.
 
 ### Set up Google Analytics
 

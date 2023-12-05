@@ -3,7 +3,7 @@ Obsidian Unlimited lets you donate money to support the Obsidian development.
 - You can donate any amount, with a minimum of $5 USD (to cover processing fees).
 - You can contribute as many times you want.
 
-==Obsidian Unlimited donations don't grant you any additional features or benefits.== We highly recommend that you purchase a [[Catalyst license]] before you donate to Obsidian Unlimited.
+==Obsidian Unlimited donations don't grant you any additional features or benefits.== We highly recommend that you purchase a [Catalyst license](Catalyst%20license.md) before you donate to Obsidian Unlimited.
 
 To donate using Obsidian Unlimited:
 

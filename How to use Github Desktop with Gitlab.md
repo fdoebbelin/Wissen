@@ -32,7 +32,7 @@ i. Download GitHub Desktop [here](https://desktop.github.com/)
 ii. Go to your Gitlab repo
 iii. Click on settings
 
-![](https://miro.medium.com/v2/resize:fit:700/1*w3soMTEc5K0Q0iCzadv3qQ.png)
+![](_resources/1!w3soMTEc5K0Q0iCzadv3qQ.png)
 
 Circled settings
 
@@ -41,28 +41,28 @@ What we’ll do now is to generate an access token for our GitHub desktop.
 After clicking on settings
 i. Click on Access Tokens
 
-![](https://miro.medium.com/v2/resize:fit:700/1*XMmRvjhDqy0XXygAJnlpTg.png)
+![](_resources/1!XMmRvjhDqy0XXygAJnlpTg.png)
 
 ii. Generate an access token
 
-![](https://miro.medium.com/v2/resize:fit:700/1*dddg6tBT8yqSPURwiPcqsA.png)
+![](_resources/1!dddg6tBT8yqSPURwiPcqsA.png)
 
 iii. Copy your new access token and store it somewhere as we’ll use it later:
 
-![](https://miro.medium.com/v2/resize:fit:700/1*YglJK_c8xxKTwBzvj_-q_w.png)
+![](_resources/1!YglJK_c8xxKTwBzvj_-q_w.png)
 
 **Step three:**
 i. Head over to your repository and select https and copy the link,
 
-![](https://miro.medium.com/v2/resize:fit:700/1*CCSybMcpqoSO2yEzEWVXDA.png)
+![](_resources/1!CCSybMcpqoSO2yEzEWVXDA.png)
 
 ii. open GitHub Desktop from the file bar, select clone repository
 
-![](https://miro.medium.com/v2/resize:fit:700/1*m9ca14FUXJJoTCfy-xN6sg.png)
+![](_resources/1!m9ca14FUXJJoTCfy-xN6sg.png)
 
 iii. After selecting it, a modal would pop up, select URL and place the https link we copied from gitlab inside the URL field and select the destination folder.
 
-![](https://miro.medium.com/v2/resize:fit:700/1*5Hs2sv0w9MHwhk8ozqp5TQ.png)
+![](_resources/1!5Hs2sv0w9MHwhk8ozqp5TQ.png)
 
 iv. After filling all those fields, select clone
 v. While cloning, it would pop up a modal titled _authentication failed,_ you would then be required to put in your username and password.
@@ -70,13 +70,13 @@ v. While cloning, it would pop up a modal titled _authentication failed,_ you 
 vi. Then your password would be the personal access token we created before, so head over to wherever you may have stored it and paste it.
 vii. After that click login or authenticate and if all goes well you should see something like this
 
-![](https://miro.medium.com/v2/resize:fit:700/1*iyX9y9Vt9-DOIq6VNjOIHg.png)
+![](_resources/1!iyX9y9Vt9-DOIq6VNjOIHg.png)
 
 cloning (name of your project repo)
 
 After that, you would see this
 
-![](https://miro.medium.com/v2/resize:fit:700/1*QLnUBwAQtYyuwUNuG7S_3w.png)
+![](_resources/1!QLnUBwAQtYyuwUNuG7S_3w.png)
 
 Then you can fetch from the origin, see all branches and use it as your preferred git client.
 

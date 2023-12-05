@@ -6,7 +6,7 @@ You can check your current version, check for updates in Settings => About. You 
 
 ### Insider build
 
-If you're looking to update to the latest insider build, please refer to [[Insider builds#How to enable insider build|this guide]] on how to turn it on.
+If you're looking to update to the latest insider build, please refer to [this guide](Insider%20builds#How%20to%20enable%20insider%20build) on how to turn it on.
 
 ### Current version vs installer version
 

@@ -1,6 +1,6 @@
 Syncing means keeping your notes up to date across your devices, such as your laptop and phone.
 
-The easiest way to sync your notes between your devices is to use [[Introduction to Obsidian Sync|Obsidian Sync]]. If you already have an Obsidian Sync subscription, see how to [[Set up Obsidian Sync]].
+The easiest way to sync your notes between your devices is to use [Obsidian Sync](Introduction%20to%20Obsidian%20Sync.md). If you already have an Obsidian Sync subscription, see how to [Set up Obsidian Sync](Set%20up%20Obsidian%20Sync.md).
 
 If you don't want to use Obsidian Sync, this page lists alternative methods for syncing your vaults with multiple devices.
 
@@ -22,8 +22,8 @@ To sync your notes, follow the instructions for the service you're using to sync
 
 To sync your notes to your iPhone or iPad, we officially support the following options:
 
-- [[Introduction to Obsidian Sync|Obsidian Sync]]
-- [[#iCloud Drive]]
+- [Obsidian Sync](Introduction%20to%20Obsidian%20Sync.md)
+- [iCloud Drive](#iCloud%20Drive)
 
 **Note:** The following services are not supported. If you discover a way to sync your notes on your iOS device using any of these services, let us know on our community channels.
 
@@ -99,13 +99,13 @@ If you're a developer, you can build a plugin that uses the Web APIs for each in
 
 ### Where are my vaults stored?
 
-If you choose not to use iCloud Drive when you create your vault, Obsidian stores it in a local file system for the Obsidian app. Other apps, such as [[#Working Copy]], can access your vault by selecting the vault from the file system.
+If you choose not to use iCloud Drive when you create your vault, Obsidian stores it in a local file system for the Obsidian app. Other apps, such as [Working Copy](#Working%20Copy), can access your vault by selecting the vault from the file system.
 
 **Caution:** Any notes stored in the local file system are deleted by iOS when you uninstall the app. Make sure to back up your notes before you uninstall the Obsidian app.
 
 ## Sync notes on Android
 
-The easiest way to sync your notes on your Android device is using [[Introduction to Obsidian Sync|Obsidian Sync]].
+The easiest way to sync your notes on your Android device is using [Obsidian Sync](Introduction%20to%20Obsidian%20Sync.md).
 
 Since Obsidian stores notes in a local folder on your Android device, you can also use any app that let you sync a folder, such as:
 

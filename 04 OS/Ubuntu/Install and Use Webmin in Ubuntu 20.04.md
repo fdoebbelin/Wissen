@@ -27,7 +27,7 @@ Next, issue the following command in Terminal to install the key:
 
 $ sudo apt-key add jcameron-key.asc
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/1-44.png)](https://linuxhint.com/wp-content/uploads/2020/05/1-44.png)
+[![](media/1-44.png)](https://linuxhint.com/wp-content/uploads/2020/05/1-44.png)
 
 ### Step 2: Add Webmin Repository
 
@@ -39,7 +39,7 @@ Then, add the Webmin repository to the */etc/apt/sources.list* file by adding th
 
 deb http://download.webmin.com/download/repository sarge contrib
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/2-41.png)](https://linuxhint.com/wp-content/uploads/2020/05/2-41.png)
+[![](media/2-41.png)](https://linuxhint.com/wp-content/uploads/2020/05/2-41.png)
 
 Once you have added the above line, use the Ctrl+O and Ctrl+X keyboard shortcuts to save and exit the file, respectively.
 
@@ -53,11 +53,11 @@ Install the Webmin package as sudo via the following command:
 
 $ sudo apt install webmin
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/3-39.png)](https://linuxhint.com/wp-content/uploads/2020/05/3-39.png)
+[![](media/3-39.png)](https://linuxhint.com/wp-content/uploads/2020/05/3-39.png)
 
 The system might prompt you for confirmation by providing you with a **y/n** option. Hit **y** to continue the installation process. Once installation is complete, you will see the following lines at the end of the output explaining how to access Webmin:
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/4-39.png)](https://linuxhint.com/wp-content/uploads/2020/05/4-39.png)
+[![](media/4-39.png)](https://linuxhint.com/wp-content/uploads/2020/05/4-39.png)
 
 ### Configure Firewall
 
@@ -79,11 +79,11 @@ If you want to access Webmin remotely, from the outside the network, you will ne
 
 Once the login page appears, enter credentials for the root or any other user that has sudo privileges. Webmin uses a self-signed certificate, so you will receive a warning about the untrusted connection from your browser when you log in to the web interface. You may ignore this message, as it does not pose a security threat to you.
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/5-38-1024x673.png)](https://linuxhint.com/wp-content/uploads/2020/05/5-38.png)
+[![](media/5-38-1024x673.png)](https://linuxhint.com/wp-content/uploads/2020/05/5-38.png)
 
 Once authenticated, you will be presented with the Webmin Dashboard.
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/6-35-1024x573.png)](https://linuxhint.com/wp-content/uploads/2020/05/6-35.png)
+[![](media/6-35-1024x573.png)](https://linuxhint.com/wp-content/uploads/2020/05/6-35.png)
 
 ### Using Webmin
 
@@ -97,11 +97,11 @@ The system configuration tool Webmin is very simple to use. On the left side of 
 - Cluster
 - Others
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/7-36.png)](https://linuxhint.com/wp-content/uploads/2020/05/7-36.png)
+[![](media/7-36.png)](https://linuxhint.com/wp-content/uploads/2020/05/7-36.png)
 
 If you click any of the categories, you will see a number of options under it.
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/8-32.png)](https://linuxhint.com/wp-content/uploads/2020/05/8-32.png)
+[![](media/8-32.png)](https://linuxhint.com/wp-content/uploads/2020/05/8-32.png)
 
 ### Example: Create a User via Webmin
 
@@ -109,11 +109,11 @@ To create a new user account using Webmin, go to **System > Users and Groups.** 
 
 You can create a new user account simply by clicking the **Create a new user** button in the **Users and Groups** window.
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/9-27-1024x306.png)](https://linuxhint.com/wp-content/uploads/2020/05/9-27.png)
+[![](media/9-27-1024x306.png)](https://linuxhint.com/wp-content/uploads/2020/05/9-27.png)
 
 This will open the user creation form, where you can enter all the required details necessary for creating a user account.
 
-[![](https://linuxhint.com/wp-content/uploads/2020/05/10-24.png)](https://linuxhint.com/wp-content/uploads/2020/05/10-24.png)
+[![](media/10-24.png)](https://linuxhint.com/wp-content/uploads/2020/05/10-24.png)
 
 Once you are finished, click on the **Create** button at the bottom left of the form, after which the new user account will be created. Beyond creating a user account, you can manage almost anything on your Linux system with Webmin.
 
@@ -127,6 +127,6 @@ In this article, you have learned how to install and use the system configuratio
 
 ### About the author
 
-![Karim Buzdar](https://linuxhint.com/wp-content/uploads/2019/11/karim-150x150.png)
+![Karim Buzdar](media/Karim_Buzdar.png)
 
 Karim Buzdar holds a degree in telecommunication engineering and holds several sysadmin certifications. As an IT engineer and technical author, he writes for various web sites. He blogs at [LinuxWays](https://linuxways.net/).

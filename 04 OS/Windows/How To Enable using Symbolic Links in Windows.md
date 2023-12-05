@@ -14,7 +14,7 @@ If UAC is **off**, any user with the "Create Symbolic Links" privilege can crea
 
 This setting is defined by within your Local Security Policies for User Rights Assignment, Security Setting for Create symbolic links.   Open Control Panel->Administrative Tools and open Local Security Policy. From there, open Local Policies->User Rights Assignment.  
   
-![kA0F0000000CqI4KAK_en_US_4_0](https://portal.perforce.com/servlet/rtaImage?eid=ka05Y000000vWUu&feoid=00N5Y00000QddaV&refid=0EM5Y000006ABpB)  
+![kA0F0000000CqI4KAK_en_US_4_0](media/kA0F0000000CqI4KAK_en_US_4_0.png)  
   
 By default, the "Administrators" group has this privilege.   For users not in the Administrators group, add the user.  
   
@@ -29,10 +29,10 @@ Microsoft recommends having UAC on.
   
 This setting is found by Control Panel->User Accounts, then click "Change User Account Control settings".   "Never notify" means UAC is off, otherwise it's on.  
   
-![kA0F0000000CqI4KAK_en_US_4_1](https://portal.perforce.com/servlet/rtaImage?eid=ka05Y000000vWUu&feoid=00N5Y00000QddaV&refid=0EM5Y000006ABpA)  
+![kA0F0000000CqI4KAK_en_US_4_1](media/kA0F0000000CqI4KAK_en_US_4_1.png)  
  
 
 ### NTFS Filesystem
 
 Viewing the properties of your drive from Windows Explorer will display your file system type.  
-![kA0F0000000CqI4KAK_en_US_4_2](https://portal.perforce.com/servlet/rtaImage?eid=ka05Y000000vWUu&feoid=00N5Y00000QddaV&refid=0EM5Y000006ABpC)
+![kA0F0000000CqI4KAK_en_US_4_2](media/kA0F0000000CqI4KAK_en_US_4_2.png)

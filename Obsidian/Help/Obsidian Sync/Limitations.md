@@ -1,4 +1,4 @@
-This page lists some of the common questions related to quotas and limitations for [[Introduction to Obsidian Sync|Obsidian Sync]].
+This page lists some of the common questions related to quotas and limitations for [Obsidian Sync](Introduction%20to%20Obsidian%20Sync.md).
 
 ## How many remote vaults can I have?
 

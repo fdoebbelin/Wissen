@@ -7,7 +7,7 @@ You can use Templates to insert pre-defined snippets of text into your active no
 
 ## Insert a template into the active note
 
-**Important:**  To insert a template, you need to first [[#Set your template folder]].
+**Important:**  To insert a template, you need to first [Set your template folder](#Set%20your%20template%20folder).
 
 1. In the ribbon, click **Insert template**.
 1. Select the template to insert at the cursor position in the active note.
@@ -33,4 +33,4 @@ You can use `{{date}}` and `{{time}}` interchangeably with format strings, for e
 You can change the default date and time formats under **Settings > Templates > Date format** and **Settings > Templates > Time format**.
 
 > [!tip]
-> You can also use the `{{date}}` and `{{time}}` template variables in the [[Daily notes]] and [[Unique note creator]] plugins.
+> You can also use the `{{date}}` and `{{time}}` template variables in the [Daily notes](Daily%20notes.md) and [Unique note creator](Unique%20note%20creator.md) plugins.

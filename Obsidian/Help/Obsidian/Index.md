@@ -18,7 +18,7 @@ This help site is also available in other languages:
 
 ## Credits
 
-[[Credits|Our credits page]] lists all the amazing people who made Obsidian possible.
+[Our credits page](Credits.md) lists all the amazing people who made Obsidian possible.
 
 To read more about the makers, see the [about page](https://obsidian.md/about) on our official website.
 
@@ -26,26 +26,26 @@ To read more about the makers, see the [about page](https://obsidian.md/about) o
 
 ### About the app
 
-- See [[Obsidian|our philosophy for the app]].
+- See [our philosophy for the app](Obsidian.md).
 
 ### Getting started
 
-- Looking for some functionality? Try the  [[command palette]], which contains all available actions you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing.
-- Learn our flavor of Markdown with [[Format your notes|how to format your notes]].
-- Check out some tips on [[Create notes|creating new notes]].
-- Check out some tips on [[Internal links|creating internal links]].
-- Learn how to [[Embedding files|embed other notes or attachments]].
-- See the [[Use hotkeys|default keyboard shortcuts]].
+- Looking for some functionality? Try the  [command palette](command%20palette.md), which contains all available actions you need to work with Obsidian. Just press `Ctrl/Cmd-P` and start typing.
+- Learn our flavor of Markdown with [how to format your notes](Format%20your%20notes.md).
+- Check out some tips on [creating new notes](Create%20notes.md).
+- Check out some tips on [creating internal links](Internal%20links.md).
+- Learn how to [embed other notes or attachments](Embedding%20files.md).
+- See the [default keyboard shortcuts](Use%20hotkeys.md).
 
 ### Official plugins
 
-![[Core plugins#Current list of official plugins]]
+![](Core%20plugins#Current%20list%20of%20official%20plugins)
 
 ### Advanced guides
 
-- [[Working with tags]]
-- [[Working with multiple notes]]
-- [[Pane layout]]
-- [[Working with multiple vaults]]
-- [[Working with multiple cursors]]
-- [[Using obsidian URI]]
+- [Working with tags](Working%20with%20tags.md)
+- [Working with multiple notes](Working%20with%20multiple%20notes.md)
+- [Pane layout](Pane%20layout)
+- [Working with multiple vaults](Working%20with%20multiple%20vaults.md)
+- [Working with multiple cursors](Working%20with%20multiple%20cursors.md)
+- [Using obsidian URI](Using%20obsidian%20URI.md)

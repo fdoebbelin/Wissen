@@ -36,6 +36,6 @@ image = pipe(prompt).images[0]
 image
 ```
 
-![stable-diffusion-2](https://spcman.github.io/stable-diffusion-m1/images/005/output_4_0.png)
+![stable-diffusion-2](media/stable-diffusion-2.png)
 
 **Updated:** December 16, 2022

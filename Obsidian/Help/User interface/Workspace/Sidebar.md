@@ -1,4 +1,4 @@
-Obsidian has two sidebars on both left and right. The left sidebar includes the [[Ribbon]].
+Obsidian has two sidebars on both left and right. The left sidebar includes the [Ribbon](Ribbon.md).
 
 ## Open hidden sidebars
 
@@ -8,7 +8,7 @@ This commonly happens when you enable a plugin but cannot find it anywhere. Chan
 
 ## Tabs
 
-By default, plugins will only create new tabs instead of new [[#Panes]].
+By default, plugins will only create new tabs instead of new [Panes](#Panes).
 
 You can switch between tabs by clicking on the icon. A tooltip will also appear to help you identify tabs.
 
@@ -32,6 +32,6 @@ To get a new pane, drag the icon of a tab above or below a current pane. The hig
 
 ### Close panes
 
-To close a pane, you can [[#Close tabs|close all tabs in it]], or drag all tabs in it by their icons and drop them into an existing pane.
+To close a pane, you can [close all tabs in it](#Close%20tabs), or drag all tabs in it by their icons and drop them into an existing pane.
 
 When only the tab area of a pane is highlighted, the tab being dragged will be dropped into that pane to merge with other tabs in that pane.

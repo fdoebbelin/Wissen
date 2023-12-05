@@ -10,7 +10,7 @@ This repository comprises:
 
 If you run into issues during installation or runtime, please refer to the [FAQ](https://github.com/apple/ml-stable-diffusion#faq) section. Please refer to the [System Requirements](https://github.com/apple/ml-stable-diffusion#system-requirements) section before getting started.
 
-[![](https://github.com/apple/ml-stable-diffusion/raw/main/assets/readme_reel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/readme_reel.png)
+[![](media/readme_reel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/readme_reel.png)
 
 ## [](https://github.com/apple/ml-stable-diffusion#-system-requirements)
 
@@ -91,9 +91,9 @@ The Neural Engine is capable of accelerating models with low-bit palettization: 
 
 |Weight Precision|`--compute-unit`|[`stabilityai/stable-diffusion-2-1-base`](https://huggingface.co/apple/coreml-stable-diffusion-2-1-base) generating _"a high quality photo of a surfing dog"_|
 |:-:|:-:|---|
-|6-bit|cpuAndNeuralEngine|[![](https://github.com/apple/ml-stable-diffusion/raw/main/assets/palette6_cpuandne_readmereel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/palette6_cpuandne_readmereel.png)|
-|16-bit|cpuAndNeuralEngine|[![](https://github.com/apple/ml-stable-diffusion/raw/main/assets/float16_cpuandne_readmereel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/float16_cpuandne_readmereel.png)|
-|16-bit|cpuAndGPU|[![](https://github.com/apple/ml-stable-diffusion/raw/main/assets/float16_gpu_readmereel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/float16_gpu_readmereel.png)|
+|6-bit|cpuAndNeuralEngine|[![](media/palette6_cpuandne_readmereel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/palette6_cpuandne_readmereel.png)|
+|16-bit|cpuAndNeuralEngine|[![](media/float16_cpuandne_readmereel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/float16_cpuandne_readmereel.png)|
+|16-bit|cpuAndGPU|[![](media/float16_gpu_readmereel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/float16_gpu_readmereel.png)|
 
 Note that there are minor differences across 16-bit (float16) and 6-bit results. These differences are comparable to the differences across float16 and float32 or differences across compute units as exemplified above. We recommend a minimum of 6 bits for palettizing Stable Diffusion. Smaller number of bits (2 and 4) will require fine-tuning to recover image generation quality as previously mentioned.
 
@@ -108,7 +108,7 @@ Resources:
 
 Example results using the prompt _"a high quality photo of a surfing dog"_ conditioned on the scribble (leftmost):
 
-[![](https://github.com/apple/ml-stable-diffusion/raw/main/assets/controlnet_readme_reel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/controlnet_readme_reel.png)
+[![](media/controlnet_readme_reel.png)](https://github.com/apple/ml-stable-diffusion/blob/main/assets/controlnet_readme_reel.png)
 
 [ControlNet](https://huggingface.co/lllyasviel/ControlNet) allows users to condition image generation with Stable Diffusion on signals such as edge maps, depth maps, segmentation maps, scribbles and pose. Thanks to [@ryu38's contribution](https://github.com/apple/ml-stable-diffusion/pull/153), both the Python CLI and the Swift package support ControlNet models. Please refer to [this section](https://github.com/apple/ml-stable-diffusion#converting-models-to-coreml) for details on setting up Stable Diffusion with ControlNet.
 

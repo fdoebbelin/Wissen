@@ -1,6 +1,6 @@
 As of v0.14.0, Obsidian supports callout blocks, sometimes called "admonitions". Callout blocks are written as a blockquote, inspired by the "alert" syntax from Microsoft Docs.
 
-Callouts are also supported natively on [[Introduction to Obsidian Publish|Obsidian Publish]].
+Callouts are also supported natively on [Obsidian Publish](Introduction%20to%20Obsidian%20Publish.md).
 
 > [!NOTE]
 > For compatibility reasons, if you're also using the Admonitions plugin, you should update it to at least v8.0.0 to avoid problems with the new callout system.
@@ -11,21 +11,21 @@ Use the following syntax to denote a callout block: `> [!INFO]`.
 > [!INFO]
 > Here's a callout block.
 > It supports **Markdown**, [[Internal link|Wikilinks]], and [[Embed files|embeds]]!
-> ![[og-image.png]]
+> ![](og-image.png)
 ```
 
 It will show up like this:
 
 > [!INFO]
 > Here's a callout block.
-> It supports **Markdown**, [[Internal links|Wikilinks]] and [[Embedding files|embeds]]!
+> It supports **Markdown**, [Wikilinks](Internal%20links.md) and [embeds](Embedding%20files.md)!
 > ![[og-image.png]]
 
 ### Types
 
 By default, Obsidian supports several callout types and aliases. Each type comes with a different background color and icon.
 
-To use these default styles, replace `INFO` in the examples with any of these types. Any unrecognized type will default to the "note" type, unless they are [[#Customizations|customized]]. The type identifier is case insensitive.
+To use these default styles, replace `INFO` in the examples with any of these types. Any unrecognized type will default to the "note" type, unless they are [customized](#Customizations). The type identifier is case insensitive.
 
 > [!note]
 > ```md
@@ -206,5 +206,5 @@ We choose the syntax because:
 
 - it falls back to blockquotes in unsupported markdown renderers
 - it parses all Markdown, including links, embeds, etc.
-- it recognizes [[Internal links]], and shows up in [[Backlinks]], [[Outgoing links]], and [[Graph view]]
+- it recognizes [Internal links](Internal%20links.md), and shows up in [Backlinks](Backlinks.md), [Outgoing links](Outgoing%20links.md), and [Graph view](Graph%20view.md)
 - the spellchecker can spellcheck it.

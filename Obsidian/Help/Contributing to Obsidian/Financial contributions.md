@@ -2,14 +2,14 @@ This page explains the ways you can support the development of Obsidian financia
 
 One of the best ways to support the team is through one or more of our paid products.
 
-- If you need to sync notes across your devices, consider a subscription for [[Introduction to Obsidian Sync|Obsidian Sync]].
+- If you need to sync notes across your devices, consider a subscription for [Obsidian Sync](Introduction%20to%20Obsidian%20Sync.md).
 
-- If you want to publish your notes to the world, consider a subscription for [[Introduction to Obsidian Publish|Obsidian Publish]].
+- If you want to publish your notes to the world, consider a subscription for [Obsidian Publish](Introduction%20to%20Obsidian%20Publish.md).
 
-- If you use Obsidian for work, we ask you to purchase a [[Commercial license]].
+- If you use Obsidian for work, we ask you to purchase a [Commercial license](Commercial%20license.md).
 
 We understand that you might not be interested in any of our paid products right now, though we'd love to know how we can change that! If you still want to support Obsidian, consider the following options:
 
-- If you only use Obsidian for personal purposes, consider getting a [[Catalyst license]].
+- If you only use Obsidian for personal purposes, consider getting a [Catalyst license](Catalyst%20license.md).
 
-- If you already have a Catalyst license and you still want to donate to Obsidian, you can also contribute to [[Obsidian Unlimited (donation)]].
+- If you already have a Catalyst license and you still want to donate to Obsidian, you can also contribute to [Obsidian Unlimited (donation)](Obsidian%20Unlimited%20(donation).md).

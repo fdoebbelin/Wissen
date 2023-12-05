@@ -23,9 +23,9 @@ key4:
 ```
 
 As of 0.12.12, there are four keys natively supported:
-- `tags` ([[Working with tags|more information]])
-- `aliases` ([[Aliases|more information]])
+- `tags` ([more information](Working%20with%20tags.md))
+- `aliases` ([more information](Aliases.md))
 - `cssclass`
-- `publish` ([[Publish and unpublish notes#Automatically select notes to publish]] and [[Publish and unpublish notes#Ignore notes]])
+- `publish` ([Publish and unpublish notes > Automatically select notes to publish](Publish%20and%20unpublish%20notes#Automatically%20select%20notes%20to%20publish) and [Publish and unpublish notes > Ignore notes](Publish%20and%20unpublish%20notes#Ignore%20notes))
 
 As Obsidian continues to develop, we will gradually make it more accessible by plugin developers, and make it more user friendly.

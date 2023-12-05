@@ -4,7 +4,7 @@ source: https://github.com/bes-dev/stable_diffusion.openvino
 
 Implementation of Text-To-Image generation using Stable Diffusion on Intel CPU or GPU.
 
-[![](https://github.com/bes-dev/stable_diffusion.openvino/raw/master/data/title.png)](https://github.com/bes-dev/stable_diffusion.openvino/blob/master/data/title.png)
+[![](media/title.png)](https://github.com/bes-dev/stable_diffusion.openvino/blob/master/data/title.png)
 
 ## Requirements
 

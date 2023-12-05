@@ -12,7 +12,7 @@ Lesezeit: 13 Min.
 
 [Druckansicht](https://www.heise.de/hintergrund/Python-Grundlagen-Mit-dem-datetime-Modul-effizient-mit-Daten-und-Zeiten-umgehen-9252303.html?view=print) [Kommentare lesen](https://www.heise.de/forum/heise-online/Kommentare/Python-Grundlagen-Mit-dem-datetime-Modul-effizient-mit-Daten-und-Zeiten-umgehen/forum-524616/comment/)
 
-![](https://heise.cloudimg.io/width/610/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/8/7/7/8/9/teamplus_flat_vector_computer_code_representing_clocks_blue_and_0f1f7f50-774d-4b67-a605-d0297cf48c2c-887a56f1ceee1610.png)
+![](media/teamplus_flat_vector_computer_code_representing_clocks_blue_and_0f1f7f50-774d-4b67-a605-d0297cf48c2c.png)
 
 Erstellt mit Midjourney durch heise online.
 

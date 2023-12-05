@@ -1,6 +1,6 @@
 Mit Stable Diffusion ist ein KI-System frei verfügbar, das eindrucksvolle Bilder erzeugt. Organisationen wie LAION und EleutherAI tragen das Non-Profit-Projekt.
 
-![Stable Diffusion Launch Announcement, Stability AI](https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/5/9/8/6/9/6/Screenshot_2022-08-26_171447.jpg-a3f3d1688f56b7c8.jpeg?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=85&width=610)
+![Stable Diffusion Launch Announcement, Stability AI](media/Stable_Diffusion_Launch_Announcement,_Stability_AI.jpg)
 
 Die Familie der KI-Bildgeneratoren bekommt erneut Zuwachs, diesmal aus der Open-Source-Ecke: Mit Stable Diffusion ist ein neuronales Text-zu-Bild-Modell erschienen, das womöglich das Zeug hätte, dem bisherigen Platzhirsch [DALL·E 2 von OpenAI](https://www.heise.de/hintergrund/KI-System-DALL-E-Ein-Alleskoenner-fuer-Kreative-7206468.html) (erschienen im April 2022) und [Imagen von Google Brain](https://www.heise.de/news/Fotorealistische-KI-Bildsynthese-Google-macht-DALL-E-2-Konkurrenz-mit-Imagen-7121826.html) (vorgestellt im Mai, bislang ohne Demo) den Rang abzulaufen. Das liegt nicht nur an der hochwertigen Qualität der Bilder, sondern an der Zugänglichkeit: Durch den gemeinnützigen Ansatz der Herausgeber steht das Stable-Diffusion-Modell samt damit erzeugtem Output der Allgemeinheit frei zur Verfügung.
 
@@ -14,14 +14,14 @@ Zahlreiche User testen das System bereits ausgiebig, insbesondere in der Kombina
 
 The recent update to the Midjourney beta with Stable Diffusion is pretty impressive, and arguably has the edge over DALL-E 2 for the generation of striking imagery - even though it's more stylistically opinionated. https://t.co/ul0VXDWFXX
 
-[![](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/0)](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/0)[![](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/1)](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/1)[![](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/2)](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/2)[![](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/3)](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/3)
+[![](media/0.jpg)](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/0)[![](media/1.png)](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/1)[![](media/2.jpg)](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/2)[![](media/3.jpg)](https://api.heise.de/svc/embetty/tweet/1562480868186521601/images/3)
 ### Suchmaschine Lexica erschließt Bilder und Prompts
 
 Einsteiger können mit der [Suchmaschine Lexica die bislang mit Stable Diffusion erzeugten Bilder und Text-Prompts](https://lexica.art/) durchstöbern. Lexica erschließt derzeit über fünf Millionen Einträge, laufend werden es mehr. Wer mit Stable Diffusion oder einem anderen Text-zu-Bild-System KI-basiert Bilder erstellt, findet hier kreative Inspiration, aber auch Denkanstöße für die Forschung.
 
 ## Stable Diffusion: Bilder und Prompts finden mit Lexica
 
-![Mines of moria, khazad dum, halls of durin, middle earth, tolkien, a bright orb of light in the center of a grand hall, outer edges shrouded in darkness with creatures crawling out into the light, in the style of hieronymus bosch](https://heise.cloudimg.io/v7/_www-heise-de_/imgs/71/3/5/9/9/1/9/6/Screenshot_2022-08-26_184035-703dbd3425c6cbf9.jpg?q=75&width=608)
+![Mines of moria, khazad dum, halls of durin, middle earth, tolkien, a bright orb of light in the center of a grand hall, outer edges shrouded in darkness with creatures crawling out into the light, in the style of hieronymus bosch](media/Mines_of_moria,_khazad_dum,_halls_of_durin,_middle_earth,_tolkien,_a_bright_orb_of_light_in_the_cent.jpg)
 
 ### Mittelerde: Minen von Moria und Khazad Dum
 
@@ -35,7 +35,7 @@ CLIP steht für Contrastive Language-Image Pre-Training und ist eine von OpenAI 
 
 Eine "stabile Diffusion" läuft in zwei Schritten ab: Der Encoder komprimiert ein Bild (x) zu einer niedrigdimensionalen Darstellung (z) im latenten Raum. Anschließend laufen Diffusion und Rauschunterdrückung (Denoising), und zwar vorwiegend über die Repräsentation (z) statt über das Originalbild (x).
 
-[![Technische Zeichnung des Models von Stable Diffusion @ai__pub](https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/5/9/8/6/9/6/1561362589082218496-images-0-20b84afc7440ea83.jpg?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=85&width=610)](https://www.heise.de/imgs/18/3/5/9/8/6/9/6/1561362589082218496-images-0-20b84afc7440ea83.jpg)
+[![Technische Zeichnung des Models von Stable Diffusion @ai__pub](media/Technische_Zeichnung_des_Models_von_Stable_Diffusion_@ai__pub.jpg)](https://www.heise.de/imgs/18/3/5/9/8/6/9/6/1561362589082218496-images-0-20b84afc7440ea83.jpg)
 
 Diagramm zu Stable Diffusion: Der Encoder komprimiert ein Bild x zu einer Repräsentation z, es folgen Diffusion und Rauschunterdrückung (Abb. 1).
 
@@ -58,7 +58,7 @@ LAION steht für Large-scale Artificial Intelligence Open Network und ist nicht 
 
 [
 
-![](https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/5/8/8/4/5/4/abb15_-_Kopie.jpg-b446b1c70f62e7bb.jpeg?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=50&width=160)
+![](media/abb15_-_Kopie.jpg-b446b1c70f62e7bb.jpeg.jpg)
 
 ### KI-System DALL·E: Ein Alleskönner für Kreative
 
@@ -72,7 +72,7 @@ heise Developer
 
 [
 
-![](https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/5/9/2/4/5/7/maxresdefault.jpg-fc67ae968518056c.jpeg?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=50&width=160)
+![](media/maxresdefault.jpg-fc67ae968518056c.jpeg.jpg)
 
 ### Dall-E-2 & Co: Bild-Generatoren im Test
 
@@ -86,7 +86,7 @@ c't Magazin
 
 [
 
-![](https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/5/7/9/4/8/1/dalle-bowls.jpg-7bd4a97fdac8949d.jpeg?force_format=avif%2Cwebp%2Cjpeg&org_if_sml=1&q=50&width=160)
+![](media/dalle-bowls.jpg-7bd4a97fdac8949d.jpeg.jpg)
 
 ### Bilder mit KI erstellen: DALL-E startet kostenpflichtige Betaphase
 
@@ -136,11 +136,11 @@ Details zum Release von Stable Diffusion finden sich in der Ankündigung des [P
 
 Auf Twitter sind bereits Erklär-Threads zu finden, unter anderem von dem Machine-Learning-Professor Tom Goldstein mit einer Übersicht relevanter Forschungsarbeiten (Thread: "[How diffusion models work](https://twitter.com/tomgoldsteincs/status/1562503814422630406), how we understand them, and why I think this understanding is broken"). Besonders empfehlenswert ist der Überblick bei AI Pub:
 
-![](https://api.heise.de/svc/embetty/tweet/1561362542487695360/profile-image)**AI Pub**[@ai__pub](https://twitter.com/ai__pub)
+![](media/profile-image.jpg)**AI Pub**[@ai__pub](https://twitter.com/ai__pub)
 
 // Stable Diffusion, Explained // You've seen the Stable Diffusion AI art all over Twitter. But how does Stable Diffusion _work_? A thread explaining diffusion models, latent space representations, and context injection: 1/15 https://t.co/VX9UVmUaKJ
 
-[![](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/0)](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/0)[![](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/1)](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/1)[![](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/2)](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/2)[![](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/3)](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/3)
+[![](media/0-1.jpg)](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/0)[![](media/1.jpg)](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/1)[![](media/2-1.jpg)](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/2)[![](media/3-1.jpg)](https://api.heise.de/svc/embetty/tweet/1561362542487695360/images/3)
 
 [21.8.2022, 16:40:13 via Twitter](https://twitter.com/ai__pub/status/1561362542487695360) [powered by](https://www.heise.de/embetty?wt_mc=link.embetty.poweredby "embetty - displaying remote content without compromising your privacy.")
 

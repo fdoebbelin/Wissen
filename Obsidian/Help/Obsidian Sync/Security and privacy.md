@@ -1,4 +1,4 @@
-For your safety, [[Introduction to Obsidian Sync|Obsidian Sync]] encrypts your [[Local and remote vaults|remote vault]] and all communication with Obsidian's servers. Before anyone can access your remote vault, they first need to decrypt it with an _encryption password_.
+For your safety, [Obsidian Sync](Introduction%20to%20Obsidian%20Sync.md) encrypts your [remote vault](Local%20and%20remote%20vaults.md) and all communication with Obsidian's servers. Before anyone can access your remote vault, they first need to decrypt it with an _encryption password_.
 
 When you create a new remote vault, you have two options:
 

@@ -1,4 +1,4 @@
-[[Introduction to Obsidian Sync|Obsidian Sync]] is a service for synchronizing your notes across devices. While it offers helpful features like [[Version history|restoring notes]], it's not designed to be used to back up your vault.
+[Obsidian Sync](Introduction%20to%20Obsidian%20Sync.md) is a service for synchronizing your notes across devices. While it offers helpful features like [restoring notes](Version%20history.md), it's not designed to be used to back up your vault.
 
 Though we recommend that you regularly back up your vault, be aware that **using a third-party service together with Obsidian Sync may result in data corruption or data loss**.
 

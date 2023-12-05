@@ -48,9 +48,9 @@ Some operators even allow you to add a nested search term within parentheses, fo
 | `line:`         | Find matches on the same line.<p/>Example: `line:(mix flour)`.                                                                                                                                                       |
 | `block:`        | Find matches in the same block.<p/>Example: `block:(dog cat)`.<p/>**Note**: Since `block:` requires Search to parse the Markdown content in every file, it can cause your search term to take longer time to finish. |
 | `section:`      | Find matches in the same section (text between two headings).<p/>Example: `block:(dog cat)`.                                                                                                                         |
-| `task:`         | Find matches in a [[Format your notes#Task list\|task]] on a block-by-block basis.<p/>Example: `task:call`.                                                                                                          |
-| `task-todo:`    | Find matches in an *uncompleted* [[Format your notes#Task list\|task]] on a block-by-block basis.<p/>Example: `task-todo:call`.                                                                                      |
-| `task-done:`    | Find matches in a *completed* [[Format your notes#Task list\|task]] on a block-by-block basis.<p/>Example: `task-done:call`.                                                                                         |
+| `task:`         | Find matches in a [task](Format%20your%20notes#Task%20list) on a block-by-block basis.<p/>Example: `task:call`.                                                                                                          |
+| `task-todo:`    | Find matches in an *uncompleted* [task](Format%20your%20notes#Task%20list) on a block-by-block basis.<p/>Example: `task-todo:call`.                                                                                      |
+| `task-done:`    | Find matches in a *completed* [task](Format%20your%20notes#Task%20list) on a block-by-block basis.<p/>Example: `task-done:call`.                                                                                         |
 
 ## Use regular expressions in search terms
 
@@ -91,7 +91,7 @@ embed OR search
 For example:
 
 > [!note]
-> [[Introduction to Obsidian Publish|Obsidian Publish]] doesn't support embedded search results. To see the example, open Obsidian Help locally inside Obsidian.
+> [Obsidian Publish](Introduction%20to%20Obsidian%20Publish.md) doesn't support embedded search results. To see the example, open Obsidian Help locally inside Obsidian.
 
 ```query
 embed OR search

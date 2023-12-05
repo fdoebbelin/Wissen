@@ -233,21 +233,21 @@ To test the connection using the Remote Desktop Connection client on Windows, fi
 
 Enter your remote server’s public IP and username into the fillable text boxes for **Computer** and **User name**. You may need to press the down arrow for **Show Options** to input the username:
 
-![Screencapture of the Remote Desktop Connection Client initial logon page](https://deved-images.nyc3.digitaloceanspaces.com/68477/gkks66I.png)
+![Screencapture of the Remote Desktop Connection Client initial logon page](media/Screencapture_of_the_Remote_Desktop_Connection_Client_initial_logon_page.png)
 
 Press the **Connect** button. If you receive an alert that the `Remote Desktop can't connect to the remote computer`, check that you have turned on the Remote Desktop option in your system settings.
 
 Press **Yes** if you receive the identity verification popup:
 
-![Screencapture of the Identity Verification popup](https://deved-images.nyc3.digitaloceanspaces.com/68477/tVINlll.png)
+![Screencapture of the Identity Verification popup](media/Screencapture_of_the_Identity_Verification_popup.png)
 
 Then, enter your remote server’s username (`sammy`) and the password you created for user `sammy` during the initial server setup. Press **Ok**.
 
-![Screencapture display the xrdp login screen](https://deved-images.nyc3.digitaloceanspaces.com/68477/9qRGWoV.jpg)
+![Screencapture display the xrdp login screen](media/Screencapture_display_the_xrdp_login_screen.jpg)
 
 Once you have logged in, you should be able to access your Ubuntu Desktop environment:
 
-![Screenapture of the remote Ubuntu Desktop](https://deved-images.nyc3.digitaloceanspaces.com/68477/LnkM9F0.png)
+![Screenapture of the remote Ubuntu Desktop](media/Screenapture_of_the_remote_Ubuntu_Desktop.png)
 
 Using RDP, you successfully connected to your remote Ubuntu server from your local machine. You can close it with the exit button when you have finished using your graphical desktop.
 
@@ -257,19 +257,19 @@ To test the connection using the Remote Desktop Connection client on macOS, firs
 
 Press **Add PC**, then enter your remote server’s public IP in the fillable box:
 
-![Screencapture showing the "Add PC" setup page with an empty box for the remote server's IP address](https://deved-images.nyc3.digitaloceanspaces.com/68477/xdf89a.png)
+![Screencapture showing the "Add PC" setup page with an empty box for the remote server's IP address](media/Screencapture_showing_the_!Add_PC!_setup_page_with_an_empty_box_for_the_remote_server's_IP_address.png)
 
 You can **Add a user account** when setting up the connection:
 
-![Screencapture showing the "Add a username account" option](https://deved-images.nyc3.digitaloceanspaces.com/68477/bas53b.png)
+![Screencapture showing the "Add a username account" option](media/Screencapture_showing_the_!Add_a_username_account!_option.png)
 
 If you do not add a user during setup, you will be prompted for your user login credentials:
 
-![Screencapture showing the "Enter your user account" prompt](https://deved-images.nyc3.digitaloceanspaces.com/68477/yt9a3v.png)
+![Screencapture showing the "Enter your user account" prompt](media/Screencapture_showing_the_!Enter_your_user_account!_prompt.png)
 
 Press **Yes** to bypass the identity verification popup:
 
-![Screencapture showing the identity verification prompt](https://deved-images.nyc3.digitaloceanspaces.com/68477/tp0vf4x.png)
+![Screencapture showing the identity verification prompt](media/Screencapture_showing_the_identity_verification_prompt.png)
 
 Once you have logged in, you can access your Ubuntu remote desktop. You can close it with the exit button when you have finished using your graphical desktop.
 
@@ -286,11 +286,11 @@ Select `y` if prompted to complete the installation. This command will install [
 
 Once installed, launch the `remmina` application on your local Linux machine and enter your remote server’s public IP in the fillable box. Press **Enter** on your keyboard to connect to your remote desktop.
 
-![Screenapture showing the Remmina client with a blurred IP address entered in the RDP box](https://deved-images.nyc3.digitaloceanspaces.com/68477/sLSA16y_d.png)
+![Screenapture showing the Remmina client with a blurred IP address entered in the RDP box](media/Screenapture_showing_the_Remmina_client_with_a_blurred_IP_address_entered_in_the_RDP_box.png)
 
 Then, enter your remote server’s username (for this tutorial, the username is `sammy`) and the password you created for the user during the initial server setup. Press **Ok**.
 
-![Screencapture showing the xrdp Login Screen with  selected for session type,  filled in the username box, and a redacted password in the password box](https://deved-images.nyc3.digitaloceanspaces.com/68477/71IeuAm_d.png)
+![Screencapture showing the xrdp Login Screen with  selected for session type,  filled in the username box, and a redacted password in the password box](media/Screencapture_showing_the_xrdp_Login_Screen_with_selected_for_session_type,_filled_in_the_username.png)
 
 You may need to enter your user’s password again to unlock the remote desktop.
 

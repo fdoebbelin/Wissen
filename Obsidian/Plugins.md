@@ -1,35 +1,54 @@
+`consistent-attachments-and-links`
+`editing-toolbar`
+`obsidian-advanced-slides`
+`obsidian-annotator`
+`obsidian-checklist-plugin`
+`obsidian-enhancing-export`
+`obsidian-epub-plugin`
+`obsidian-excalidraw-plugin`
+`obsidian-excel-to-markdown-table`
+`obsidian-file-cleaner`
+`obsidian-gallery`
+`obsidian-image-toolkit`
+`obsidian-local-images`
+`oz-clear-unused-images`
+`table-editor-obsidian`
+`unique-attachments`
+`webpage-html-export`
+`wikilinks-to-mdlinks-obsidian`
 ## Calendar
+`calendar`
 This plugin for [Obsidian](https://obsidian.md/) creates a simple Calendar view for visualizing and navigating between your daily notes.
 [GitHub - liamcain/obsidian-calendar-plugin: Simple calendar widget for Obsidian.](https://github.com/liamcain/obsidian-calendar-plugin)
 
 ## Dataview
-
+`dataview`
 - Treat your [Obsidian Vault](https://obsidian.md/) as a database which you can query from. 
 - Provides a JavaScript API and pipeline-based query language for filtering, sorting, and extracting data from Markdown pages.
 - [GitHub - blacksmithgu/obsidian-dataview: A high-performance data index and query language over Markdown files, for https://obsidian.md/.](https://github.com/blacksmithgu/obsidian-dataview)
 
 ## Editor Syntax Highlight
-
+`cm-editor-syntax-highlight-obsidian`
 - Allows syntax highlighting for code blocks in the editor.
 - [GitHub - deathau/cm-editor-syntax-highlight-obsidian: A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.](https://github.com/deathau/cm-editor-syntax-highlight-obsidian)
 
 ## Kanban
-
+`obsidian-kanban`
 - Create markdown-backed Kanban boards.
 - [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian.](https://github.com/mgmeyers/obsidian-kanban)
 
 ## Outliner
-
+`obsidian-outliner`
 - Work with your lists like in Workflowy or RoamResearch
 - [GitHub - vslinko/obsidian-outliner: Work with your lists like in Workflowy or RoamResearch](https://github.com/vslinko/obsidian-outliner)
 
 ## Periodic Notes
-
+`periodic-notes`
 - Create and manage all of your time-based notes within Obsidian.
 - [GitHub - liamcain/obsidian-periodic-notes: Create/manage your daily, weekly, and monthly notes in Obsidian](https://github.com/liamcain/obsidian-periodic-notes)
 
 ## Templater
-
+`templater-obsidian`
 - It defines a templating language that lets you insert variables and functions results into your notes. 
 - It will also let you execute JavaScript code manipulating those variables and functions.
 - [GitHub - SilentVoid13/Templater: A template plugin for obsidian](https://github.com/SilentVoid13/Templater)

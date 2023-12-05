@@ -1,0 +1,6 @@
+- Das **Sender-Empfänger-Modell** ist ein klassisches [Kommunikationsmodell](https://de.wikipedia.org/wiki/Kommunikationsmodell "Kommunikationsmodell"). 
+- Es wurde in den 1940er-Jahren von [Claude E. Shannon](https://de.wikipedia.org/wiki/Claude_Elwood_Shannon "Claude Elwood Shannon") und [Warren Weaver](https://de.wikipedia.org/wiki/Warren_Weaver "Warren Weaver") entwickelt und ist daher auch unter dem Namen **Shannon-Weaver-Modell** bekannt. 
+- Es handelt sich um ein [binäres](https://de.wikipedia.org/wiki/Bin%C3%A4rcode "Binärcode") [mathematisches Modell](https://de.wikipedia.org/wiki/Mathematisches_Modell "Mathematisches Modell") mit dem Ziel der Optimierung der [Kommunikation](https://de.wikipedia.org/wiki/Kommunikation "Kommunikation") im [nachrichtentechnischen](https://de.wikipedia.org/wiki/Nachrichtentechnik "Nachrichtentechnik") Sinn als Austausch von [Informationen](https://de.wikipedia.org/wiki/Information "Information") zwischen zwei Systemen, dem [Sender](https://de.wikipedia.org/wiki/Absender "Absender") und dem [Empfänger](https://de.wikipedia.org/wiki/Empf%C3%A4nger_(Information) "Empfänger (Information)").
+
+![](_resources/Pasted%20image%2020221212141247.png)
+[Sender-Empfänger-Modell – Wikipedia](https://de.wikipedia.org/wiki/Sender-Empf%C3%A4nger-Modell)

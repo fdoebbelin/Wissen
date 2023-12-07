@@ -22,7 +22,7 @@ You can also embed links to [headings](Internal%20links#Link%20to%20a%20heading%
 
 The text below is an example of an embedded block:
 
-![[Internal links#^b15695]]
+![](Internal%20links#^b15695)
 
 ## Embed an image in a note
 
@@ -32,7 +32,7 @@ To embed an image:
 ![](Engelbart.jpg)
 ```
 
-![[Engelbart.jpg]]
+![](Engelbart.jpg)
 
 You can change the image dimensions, by adding `|640x480` to the link destination, where 640 is the width and 480 is the height.
 
@@ -42,7 +42,7 @@ You can change the image dimensions, by adding `|640x480` to the link destinatio
 
 If you only specify the width, the image scales according to its original aspect ratio. For example, `![](Engelbart.jpg)`.
 
-![[Engelbart.jpg|100]]
+![](Engelbart.jpg)
 
 ## Embed an audio file in a note
 
@@ -52,7 +52,7 @@ To embed an audio file:
 ![](Excerpt%20from%20Mother%20of%20All%20Demos%20(1968).ogg)
 ```
 
-![[Excerpt from Mother of All Demos (1968).ogg]]
+![](Excerpt%20from%20Mother%20of%20All%20Demos%20(1968).ogg)
 
 ## Embed a PDF in a note
 

@@ -72,7 +72,7 @@ You can change the text used to display a link. This can be useful when you want
 
 You can use the vertical bar (`|`) to change the text used to display a link.
 
-For example, `[custom display text](Internal%20links.md)` appears as [[Internal links|custom display text]].
+For example, `[custom display text](Internal%20links.md)` appears as [custom display text](Internal%20links.md).
 
 **Markdown format:**
 

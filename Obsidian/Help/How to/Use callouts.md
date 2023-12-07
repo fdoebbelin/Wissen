@@ -19,7 +19,7 @@ It will show up like this:
 > [!INFO]
 > Here's a callout block.
 > It supports **Markdown**, [Wikilinks](Internal%20links.md) and [embeds](Embedding%20files.md)!
-> ![[og-image.png]]
+> ![](og-image.png)
 
 ### Types
 

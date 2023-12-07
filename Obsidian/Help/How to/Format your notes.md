@@ -12,7 +12,7 @@ Link to a page: [Internal links](Internal%20links.md).
 ```
 
 
-Link to a page: [[Internal links]].
+Link to a page: [Internal links](Internal%20links.md).
 
 ---
 
@@ -23,7 +23,7 @@ Embed another file (read more about [Embedding files](Embedding%20files.md)):
 ```md
 ![](Obsidian#What%20is%20Obsidian)
 ```
-![[Obsidian#What is Obsidian]]
+![](Obsidian#What%20is%20Obsidian)
 
 ---
 
@@ -157,7 +157,7 @@ Will look like this:
 ![](og-image.png)
 ```
 
-![[og-image.png]]
+![](og-image.png)
 
 #### Resizing images
 
@@ -174,7 +174,7 @@ or for local images
 ![](og-image.png)
 ```
 
-![[og-image.png|200]]
+![](og-image.png)
 
 ---
 
@@ -361,7 +361,7 @@ First Header | Second Header
 
 First Header | Second Header
 ------------ | ------------
-[[Format your notes\|Formatting]]	|  [hotkeys](Use%20hotkeys.md)
+[Formatting](Format%20your%20notes.md)	|  [hotkeys](Use%20hotkeys.md)
 
 If you want to resize images in tables, you need to escape the pipe with a `\`:
 
@@ -373,7 +373,7 @@ Image | Description
 
 Image | Description
 ----- | -----------
-![[og-image.png\|200]] | Obsidian
+![](og-image.png) | Obsidian
 
 ---
 
@@ -509,7 +509,7 @@ Learn more about callouts [here](Use%20callouts.md).
 
 > [!INFO]
 > Here's a callout block.
-> It supports **markdown** and [[Internal links|wikilinks]].
+> It supports **markdown** and [wikilinks](Internal%20links.md).
 
 ---
 

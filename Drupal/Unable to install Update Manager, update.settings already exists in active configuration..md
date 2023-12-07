@@ -1,0 +1,1 @@
+Try running `drush cdel update.settings`, then try installing the module again. Somehow, the module isn't configured, but the settings got stuck in your database, so you need to clear them out.

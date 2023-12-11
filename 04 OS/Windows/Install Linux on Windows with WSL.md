@@ -5,6 +5,7 @@ Systemsteuerung>Programme>Windows-Features aktivieren oder deaktivieren
 Hyper-V
 VM-Plattform
 ```
+![](Pasted%20image%2020231211155842.png)
 oder
 
 ```PowerShell

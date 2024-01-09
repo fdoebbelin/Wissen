@@ -11,7 +11,9 @@
 `obsidian-gallery`
 `obsidian-image-toolkit`
 `obsidian-local-images`
+`obsidian-outliner`
 `oz-clear-unused-images`
+`quickadd`
 `table-editor-obsidian`
 `unique-attachments`
 `webpage-html-export`
